@@ -1,0 +1,10 @@
+[Desktop Entry]
+Path=/opt/intellij-idea-ultimate/current
+Exec=idea.sh
+Type=Application
+Terminal=false
+Name=Intellij-idea
+GenericName=Intellij-idea
+StartupNotify=false
+Categories=Development;IDE;
+StartupNotify=false
