@@ -1,0 +1,5 @@
+
+#http://localhost/content/libraries/096fdd30-9441-4d37-bc75-e5234af63e46
+# id first guid block
+export LIBRARY_ID= "096fdd30"
+docker exec -it funkwhale_srv_1  manage import_files $LIBRARY_ID "/music/**/**/*.mp3" --in-place --async
