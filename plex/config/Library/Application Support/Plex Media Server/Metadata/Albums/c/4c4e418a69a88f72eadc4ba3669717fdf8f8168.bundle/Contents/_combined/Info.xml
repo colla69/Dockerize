@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://625" path="tracks/04b7cbf292ba3f4c0c285dc55a6e4ea691623eac">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://628" path="tracks/ffcc5552a588e9e1b076dedf599676d2aa06f773">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://629" path="tracks/ec9f72f36b8516de5fd5ec7ab02ef93a044a3c8e">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://626" path="tracks/fa7888592aafdf74dcc6859ee45e36a50f7f0ef0">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://627" path="tracks/193b53b4d0a1e7cf33029d0e81a0944c0fd928f2">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://633" path="tracks/fca1d9cab2b34229b1a110c88c1346004bd472c1">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://632" path="tracks/5e46d48358c00a86e3b2107f60a9463d70f5e3ea">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://2131" path="tracks/e712cafaf88a5bf1112ebbad1dbcb9a844fc5553">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://2132" path="tracks/8494949a27a3b67f339c28b4897d570d0f3f4024">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://631" path="tracks/427e00f9f0bcd914bf8aef5fbe1b2d6aecd1f0da">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://630" path="tracks/12c5c97caa7990c60c91ba8acf3e66553a1157fd">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

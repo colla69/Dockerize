@@ -1,0 +1,220 @@
+Apr 07, 2019 11:08:12.370 [0x7fdb6ae3f700] INFO - Plex Media Scanner v1.15.2.793-782228f99 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Apr 07, 2019 11:08:12.371 [0x7fdb6ae3f700] INFO - Linux version: 4.15.0-47-generic, language: en-US
+Apr 07, 2019 11:08:12.371 [0x7fdb6ae3f700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 11:08:12.371 [0x7fdb6ae3f700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 2243
+Apr 07, 2019 11:08:12.374 [0x7fdb733a8b80] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.26.0, threadsafe=1
+Apr 07, 2019 11:08:12.491 [0x7fdb733a8b80] DEBUG - Analyzing media parts for item 2243 (Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD)): 2008
+Apr 07, 2019 11:08:12.491 [0x7fdb733a8b80] DEBUG - [ID 2008] Media part analysis: /music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg
+Apr 07, 2019 11:08:12.491 [0x7fdb733a8b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg"
+Apr 07, 2019 11:08:12.492 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg' for reading
+Apr 07, 2019 11:08:12.492 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:12.525 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:12.525 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:12.525 [0x7fdb733a8b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:12.526 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Probe with size=2294, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:12.526 [0x7fdb733a8b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:12.526 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:12.691 [0x7fdb733a8b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3756176 seeks:2 frames:1265
+Apr 07, 2019 11:08:12.691 [0x7fdb733a8b80] DEBUG - [MI]  * 19ca9eaeec167f1f489f15288952e598ba65a54e [mpeg mpeg1video/mp2] Duration: 1488996ms, 352x288 (1.334697) 25.000fps, bitrate=1392kbps, audio channels=2, optimizedForStreaming=0 ("/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg")
+Apr 07, 2019 11:08:12.692 [0x7fdb733a8b80] DEBUG - [MI] Chapters had generic titles, clearing.
+Apr 07, 2019 11:08:12.693 [0x7fdb733a8b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg"
+Apr 07, 2019 11:08:12.693 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Statistics: 3756176 bytes read, 2 seeks
+Apr 07, 2019 11:08:12.694 [0x7fdb733a8b80] DEBUG - Committing media stream changes for part 2008
+Apr 07, 2019 11:08:12.698 [0x7fdb733a8b80] DEBUG - Updating media item 2008, size=259180744, metadata_item_id=2243
+Apr 07, 2019 11:08:12.698 [0x7fdb733a8b80] DEBUG - Updating part with ID=2008 [/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg]
+Apr 07, 2019 11:08:12.707 [0x7fdb733a8b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg"
+Apr 07, 2019 11:08:12.707 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg' for reading
+Apr 07, 2019 11:08:12.707 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:12.720 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:12.720 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:12.721 [0x7fdb733a8b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:12.721 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Probe with size=2294, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:12.721 [0x7fdb733a8b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:12.722 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:12.739 [0x7fdb733a8b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3756176 seeks:2 frames:1265
+Apr 07, 2019 11:08:12.739 [0x7fdb733a8b80] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/1/9ca9eaeec167f1f489f15288952e598ba65a54e.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - invalid dts/pts combination 67024138
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.757 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.758 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.759 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.760 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.778 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.779 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.780 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.781 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.781 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.789 [0x7fdb733a8b80] DEBUG - Loaded memory image of size 384x288.
+Apr 07, 2019 11:08:12.796 [0x7fdb733a8b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD).mpg"
+Apr 07, 2019 11:08:12.796 [0x7fdb733a8b80] DEBUG - [FFMPEG] - Statistics: 3854480 bytes read, 3 seeks
+Apr 07, 2019 11:08:12.798 [0x7fdb733a8b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.798 [0x7fdb733a8b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.799 [0x7fdb733a8b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.800 [0x7fdb733a8b80] DEBUG - Updating metadata item (save) (Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD)) with ID 2243
+Apr 07, 2019 11:08:12.801 [0x7fdb68a47700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:12.802 [0x7fdb68a47700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:12.805 [0x7fdb68a47700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:12.805 [0x7fdb733a8b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.805 [0x7fdb733a8b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.806 [0x7fdb68a47700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:12.807 [0x7fdb68a47700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:12.807 [0x7fdb733a8b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.807 [0x7fdb733a8b80] DEBUG - Updating metadata item (save) (Wacken 2004 - Death Angel After forever Nevermore Ektomorf Cannibal Corpse Children Of Bodom Motörhead (VCD)) with ID 2243
+Apr 07, 2019 11:08:12.808 [0x7fdb68a47700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:12.809 [0x7fdb68a47700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:12.810 [0x7fdb68a47700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2243&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:12.814 [0x7fdb68a47700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:12.815 [0x7fdb68a47700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache

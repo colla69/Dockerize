@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <originally_available_at>1998-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="626491edde45c0b5ea9ec3c5991b8dd0" media="com.plexapp.agents.localmedia_793a52986e0af34428154871ce85e0194901ede6" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="5856848266c8a86193e7a6829dfa72e9" media="com.plexapp.agents.localmedia_f3b7a0ee10249f295f45fef1dae528befc3cb044" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/2964d2534951eb0f80c428b617ff2c38.png" media="com.plexapp.agents.lastfm_886a67a221648c1b0ea2f4e2045bf51c014d8f6b" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Canzoni Per Me</title>
+  <tracks>
+    <item guid="local://132" path="tracks/00320863f3c506be4ed2c352802de8669996e13e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418517&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Rewind" remote="com.plexapp.agents.lyricfind_d2f6ad74a8fb3a94281d2e26342951bea2e7d98c" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>27614</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://130" path="tracks/4ce04ac4779eb30ffe642de4a63de6a7fd82915b">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://131" path="tracks/c9e7db5224ed2159a16853fdad6b1b554a7f572a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418516&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Idea%2077" remote="com.plexapp.agents.lyricfind_260db57632f6aeac28edb6a33184d9567d136ba9" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4438</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://129" path="tracks/43c3f19d5a7cbdfb8c3e43d960e6db57626c9fa7">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418514&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Laura" remote="com.plexapp.agents.lyricfind_30082e747a19867af55bb27150e98857e4656930" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>13059</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://128" path="tracks/7bd46ff9143d0a700df535c22dbb3dbe43498dc1">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418513&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Quanti%20Anni%20Hai" remote="com.plexapp.agents.lyricfind_64606c907cdfae21849757b7b9286778809a81fb" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>44050</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://125" path="tracks/015efc950ea76f42f8ad4f64441ef13728f45ecf">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418510&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=e%20Il%20Mattino" remote="com.plexapp.agents.lyricfind_78e0d2615cbdbc978eeefa9c1394e361a229b534" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>5904</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://127" path="tracks/492c24d3b25b55c0fe1556839af3c90adcd5658a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418512&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Io%20No" remote="com.plexapp.agents.lyricfind_73fa73d897e2815c3ca20f443b1db3c673e29169" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>20112</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://126" path="tracks/955745f4fc476badd2ba7b0253a66822fb74057c">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418511&amp;artist=Vasco%20Rossi&amp;album=Canzoni%20Per%20Me&amp;track=Una%20Per%20Te" remote="com.plexapp.agents.lyricfind_f3c168ba487af736f8a7340151216a9a4c9fab6d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>13769</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

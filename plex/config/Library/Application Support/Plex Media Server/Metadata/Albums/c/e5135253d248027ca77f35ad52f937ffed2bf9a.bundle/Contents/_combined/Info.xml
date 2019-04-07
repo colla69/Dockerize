@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <originally_available_at>1981-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/eecda388d59ac28b523163593561ce25.png" media="com.plexapp.agents.lastfm_7d62c844b97a9ecea1b669e82d703819cdeb8320" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Siamo Solo Noi</title>
+  <tracks>
+    <item guid="local://352" path="tracks/e53d55d3653ae9cbb1f1837291c525d5c369f1e3">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435869&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Brava" remote="com.plexapp.agents.lyricfind_fc16c6c39d2758e2746886fe8d498c3e3ffabe31" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>22875</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://353" path="tracks/93f49689228b0a1d162965910601db8c04a673cb">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435870&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Dimentichiamoci%20Questa%20Citt%E0" remote="com.plexapp.agents.lyricfind_208e1bff59869bb4c4139134f8c528b90292ba4c" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>8336</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://350" path="tracks/552a45b64a109435acb648b7bed9b6e73e66d57b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435867&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Che%20Ironia" remote="com.plexapp.agents.lyricfind_60e71bd598a37d21a8fd3b5975d577a84de94386" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7859</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://351" path="tracks/a706c4f69653fd31b5155dccb13cbc1416b3f3e6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435868&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Voglio%20Andare%20al%20Mare" remote="com.plexapp.agents.lyricfind_c27e6bfd487a3de536f3da5b9c5c10ca943d768d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>10209</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://349" path="tracks/96a3b171a1b60348b2dbf493e3bb5c498487fa5d">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243703&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Ieri%20ho%20sgozzato%20mio%20figlio" remote="com.plexapp.agents.lyricfind_9d5bf97980fd6b7527da30f2fb0e6f4753e05d7e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7380</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://348" path="tracks/2296fddaa529ad244b1035aec1f77b68dc13a606">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435865&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Siamo%20Solo%20Noi" remote="com.plexapp.agents.lyricfind_fadcad26a0988c5235210d39f6f69b0f47edeb18" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>44521</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://354" path="tracks/616dda4c6268d9ef1883f27c62a7f1ee5131de98">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435871&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Incredibile%20Romantica" remote="com.plexapp.agents.lyricfind_e423283a4a2507280ab1adbaeb94a3f7a1e76238" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>23378</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://355" path="tracks/7c47fbcd0bfbb44a489b2bb93732bfdbb4c7a809">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435872&amp;artist=Vasco%20Rossi&amp;album=Siamo%20Solo%20Noi&amp;track=Valium" remote="com.plexapp.agents.lyricfind_24d872b18308943cab43010fe86bc70feba3ea5f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7537</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://356" path="tracks/965ada0758a610cad1d1ee12027869a4b5281201">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

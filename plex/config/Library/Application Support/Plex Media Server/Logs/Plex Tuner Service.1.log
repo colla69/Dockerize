@@ -1,0 +1,27 @@
+Apr 07, 2019 10:57:46.877 [0x7ff598d87700] INFO - Plex Tuner Service v1.0.0.0 - Docker Docker Container (LinuxServer.io) x86_64 - build: 
+Apr 07, 2019 10:57:46.878 [0x7ff598d87700] INFO - Linux version: 4.15.0-47-generic (#50-Ubuntu SMP Wed Mar 13 10:44:52 UTC 2019), language: en-US
+Apr 07, 2019 10:57:46.878 [0x7ff598d87700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 10:57:46.878 [0x7ff598d87700] INFO - /usr/lib/plexmediaserver/Plex Tuner Service /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.15.2.793-782228f99 32600 /waitmutex
+Apr 07, 2019 10:57:46.867 [0x7ff59e507780] INFO - [I] broker_t::start...
+Apr 07, 2019 10:57:46.911 [0x7ff59e507780] INFO - [I] device_manager_t::init.
+Apr 07, 2019 10:57:46.911 [0x7ff59e507780] INFO - [I] device_manager_t::init. Initialize provider manager
+Apr 07, 2019 10:57:46.911 [0x7ff59e507780] INFO - [I] device_manager_t::init. Initialize all device auxes
+Apr 07, 2019 10:57:46.911 [0x7ff59e507780] INFO - [I] dvb_device_factory_t::get_aux_list
+Apr 07, 2019 10:57:46.911 [0x7ff59e507780] INFO - [I] tvbutler_aux_t::init
+Apr 07, 2019 10:57:46.915 [0x7ff59e507780] INFO - [I] web_server_t::start. Starting web server on port 32600
+Apr 07, 2019 10:57:53.264 [0x7ff5937fe700] INFO - [I] web_service_t::process_device_discovery
+Apr 07, 2019 10:57:53.264 [0x7ff5937fe700] INFO - [I] device_reactor_t::get_device_list ()
+Apr 07, 2019 10:57:53.264 [0x7ff5937fe700] INFO - [I] dvb_device_factory_t::get_device_list ()
+Apr 07, 2019 10:57:55.269 [0x7ff5937fe700] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Apr 07, 2019 10:57:55.673 [0x7ff5937fe700] INFO - [I] v4l::DeviceGetList_impl. getting v4l device list
+Apr 07, 2019 10:57:55.678 [0x7ff5937fe700] INFO - [I] onetv_factory::DeviceGetListEx >>
+Apr 07, 2019 10:57:55.678 [0x7ff5937fe700] WARN - [W] onetv_factory::DeviceGetListEx. libusb_init returned an error -99
+Apr 07, 2019 11:01:56.179 [0x7ff59e507780] INFO - [I] device_manager_t::term
+Apr 07, 2019 11:01:56.181 [0x7ff59e507780] INFO - [I] device_manager_t::term. Stop all devices
+Apr 07, 2019 11:01:56.182 [0x7ff59e507780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Apr 07, 2019 11:01:56.184 [0x7ff59e507780] INFO - [I] tvbutler_aux_t::term
+Apr 07, 2019 11:01:56.195 [0x7ff59e507780] INFO - [I] web_server_t::stop. Web server is stopped
+Apr 07, 2019 11:01:56.196 [0x7ff59e507780] INFO - [I] device_manager_t::term
+Apr 07, 2019 11:01:56.196 [0x7ff59e507780] INFO - [I] device_manager_t::term. Stop all devices
+Apr 07, 2019 11:01:56.196 [0x7ff59e507780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Apr 07, 2019 11:01:56.196 [0x7ff59e507780] INFO - [I] broker_t::shutdown. Shutdown is completed.

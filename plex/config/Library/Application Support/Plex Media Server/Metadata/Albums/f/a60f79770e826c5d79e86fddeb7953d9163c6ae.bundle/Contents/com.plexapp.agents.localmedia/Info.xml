@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="868">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="5a66cd2e67c3957642453e3781230814" media="80ce31f8d047a40ced8e7ce9fb3a1569dc6040dc"/>
+    <item external="True" url="9296d9ab7a5f94a7a95ab595374075fe" media="c6c07fa1026d10826f9fb4cf7a4c59c1ccf2d0aa"/>
+    <item external="True" url="260c2507bbaee3cd286e02899e56ae8d" media="fc654daa2190b1e1a53fdd1c112ff06436d03f7a"/>
+    <item external="True" url="5c64dcb37c430ec831d011c3a1cf5e95" media="2b38a473d18ab59fb7e589c6ef6775662c57302e"/>
+    <item external="True" url="0f7555f0bb9d5729ac9b3789880f5342" media="49724d049be4ada2218b02cb1c1f4c1786d60fa9"/>
+    <item external="True" url="ee4b1649ef5688b101b876a2f300b611" media="ecdc26acacabd0a20a38687b8311a4df9eee7c0b"/>
+    <item external="True" url="0981b8781469738a1216d3faaab2926c" media="1010675ac49641b28ba5441fc865e68874c00ae8"/>
+    <item external="True" url="08235273fcc530ce52c9a36484d064b2" media="9a31c445dcce715306b715a26a2c5ae13e193761"/>
+    <item external="True" url="bbbe14b6bac016b9f51b8a2baf134425" media="95f81b6ba7312c8ef2d58ba5553ab4894483cca5"/>
+    <item external="True" url="4016e71b544a9502255448d5c3698bc4" media="067ffd66a07dbda65894d5f73e0315a875cbd6dc"/>
+    <item external="True" url="2cf55d6867870ac8e752b6e9f3beed4b" media="0989a621e73caddf7ce798ce54bff3fa1f4d61c0"/>
+    <item external="True" url="13c11f3fefb2171686e4057b5fba5b6d" media="9962553d7fa161f1622d42598c458933b719720d"/>
+    <item external="True" url="dd6cd08055700b6fcfa30947e517b82f" media="8c18809ea93aa9b7fd362b684f316f75f166362e"/>
+  </posters>
+  <originally_available_at>2005-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="null">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres/>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks>
+    <item key="local://620">
+      <rating/>
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-35785970&amp;lrc=1&amp;artist=Children%20of%20Bodom&amp;album=%5BUnknown%20Album%5D&amp;track=Are%20You%20Dead%20Yet" remote="be79f3416c4374999753eab3fd02b0580c9c5e21" format="lrc" sort_order="1"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-35785970&amp;artist=Children%20of%20Bodom&amp;album=%5BUnknown%20Album%5D&amp;track=Are%20You%20Dead%20Yet" remote="bd9f51e19dcf93d24525fc077773eefc7ec80ed6" format="txt" sort_order="2"/>
+      </lyrics>
+      <duration/>
+      <rating_key/>
+      <album/>
+      <index/>
+      <genres/>
+      <source_title/>
+      <thumb/>
+      <title/>
+      <rating_count/>
+      <tags/>
+      <tempo/>
+      <moods/>
+      <key/>
+      <originally_available_at/>
+      <name/>
+      <artist/>
+      <title_sort/>
+      <summary/>
+      <art_url/>
+    </item>
+  </tracks>
+  <studio/>
+  <posters/>
+  <originally_available_at/>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

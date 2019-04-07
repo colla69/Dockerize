@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <originally_available_at>1999-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="533b2c646b423d95048598423876924c" media="com.plexapp.agents.localmedia_1a77599eec4e66773e9ce0f8f344c5d97f7e1fef" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="e81955125253d30caafdc4953ec62627" media="com.plexapp.agents.localmedia_b7ffbe25a1c5f8ada849d9d4a3f4e29fae2b4f3f" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://811" path="tracks/4de167b4e5437b554a91ef0fd05a11fbe7ec1edf">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779909&amp;artist=In%20Flames&amp;album=Colony&amp;track=Insipid%202000" remote="com.plexapp.agents.lyricfind_53f280da9e751ae10f58b7d80152575a5185a2b7" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>619991</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://810" path="tracks/1dcf84997b08bb31b815e7652c25f9a98ec6fe1f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779925&amp;artist=In%20Flames&amp;album=Colony&amp;track=Behind%20Space%20%2799" remote="com.plexapp.agents.lyricfind_c9a9fd3aca70c4e675c98eeddd16ddcb7a4f548b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>591033</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://813" path="tracks/1fef60b3e6acb9d5568cd0327aacb706572bca4c">
+      <lyrics/>
+      <moods/>
+      <rating_count>688951</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://812" path="tracks/50decf6acd6cc30a16d73b4ce90d147e43dd4033">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779912&amp;artist=In%20Flames&amp;album=Colony&amp;track=The%20New%20World" remote="com.plexapp.agents.lyricfind_0690bf683e130c3d5d05e688c249ca50861bb5c1" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>401427</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://808" path="tracks/03b5260e2a5f1136ec1c092816945ffc2b5a8a57">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-18455901&amp;artist=In%20Flames&amp;album=Colony&amp;track=Coerced%20Coexistence" remote="com.plexapp.agents.lyricfind_7faba53fafb51e4932614ddc417740e2b7329726" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>673768</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://809" path="tracks/97d0dd811b32835b6ce328959426708104ddfcea">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779959&amp;artist=In%20Flames&amp;album=Colony&amp;track=Resin" remote="com.plexapp.agents.lyricfind_fbe3c6706b6b520329c0daddd12561cee514525b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>663327</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://802" path="tracks/148581c008810398e11c5a70590a4f9dcbb12d11">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779969&amp;artist=In%20Flames&amp;album=Colony&amp;track=Embody%20the%20Invisible" remote="com.plexapp.agents.lyricfind_8fc5eba610a463519d9f6070737f2fd1f3115977" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1139478</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://803" path="tracks/a5e8fc5fcb01d2b8a64bfcb77d7bcc5d6d5f047a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779952&amp;artist=In%20Flames&amp;album=Colony&amp;track=Ordinary%20Story" remote="com.plexapp.agents.lyricfind_71640473a977ec40f3d2ce130da2b627d06df524" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1280890</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://806" path="tracks/533f4445c18741e250504f3d3df6f6b3f07a770f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779945&amp;artist=In%20Flames&amp;album=Colony&amp;track=Zombie%20Inc." remote="com.plexapp.agents.lyricfind_d16c6a9589b2e5653b6e120c6ae0377562cdd6cb" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>837770</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://807" path="tracks/1bf21e6b2a7691c885e426a27f4e88cc6eadf2b0">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779898&amp;artist=In%20Flames&amp;album=Colony&amp;track=Pallar%20Anders%20Visa" remote="com.plexapp.agents.lyricfind_8c648817f72ba42ad42cd2a13aa08dade371167f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>790348</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://804" path="tracks/42ba3b104982b94eb195c4b272a8f89480fd59b7">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779961&amp;artist=In%20Flames&amp;album=Colony&amp;track=Scorn" remote="com.plexapp.agents.lyricfind_58f3fe6356cd625777bc67515a58032143956709" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>830905</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://805" path="tracks/61ad570d0e98436d9f0251e570ff2c8b2c5f3091">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-26779679&amp;artist=In%20Flames&amp;album=Colony&amp;track=Colony" remote="com.plexapp.agents.lyricfind_b1e05a42b4d589d9eb859412b7b8917ea902508b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1204678</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

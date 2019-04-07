@@ -1,0 +1,59 @@
+Apr 07, 2019 11:08:11.713 [0x7feced447700] INFO - Plex Media Scanner v1.15.2.793-782228f99 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Apr 07, 2019 11:08:11.713 [0x7feced447700] INFO - Linux version: 4.15.0-47-generic, language: en-US
+Apr 07, 2019 11:08:11.713 [0x7feced447700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 11:08:11.713 [0x7feced447700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 2242
+Apr 07, 2019 11:08:11.716 [0x7fecf59b2b80] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.26.0, threadsafe=1
+Apr 07, 2019 11:08:11.821 [0x7fecf59b2b80] DEBUG - Analyzing media parts for item 2242 (Soilwork - The Flameout & Children Of Bodom - Needled): 2007
+Apr 07, 2019 11:08:11.821 [0x7fecf59b2b80] DEBUG - [ID 2007] Media part analysis: /music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout & Children Of Bodom - Needled.mpg
+Apr 07, 2019 11:08:11.821 [0x7fecf59b2b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout && Children Of Bodom - Needled.mpg"
+Apr 07, 2019 11:08:11.821 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout & Children Of Bodom - Needled.mpg' for reading
+Apr 07, 2019 11:08:11.821 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:11.837 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:11.837 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:11.838 [0x7fecf59b2b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:11.838 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:11.838 [0x7fecf59b2b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:11.838 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:11.982 [0x7fecf59b2b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3788944 seeks:2 frames:1368
+Apr 07, 2019 11:08:11.995 [0x7fecf59b2b80] DEBUG - [MI]  * 135a34a3b4404035a7b8bf5eaae2f74f6aa39526 [mpeg mpeg1video/mp2] Duration: 501835ms, 352x240 (1.339422) 29.970fps, bitrate=1394kbps, audio channels=2, optimizedForStreaming=0 ("/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout && Children Of Bodom - Needled.mpg")
+Apr 07, 2019 11:08:11.996 [0x7fecf59b2b80] DEBUG - [MI] Chapters had generic titles, clearing.
+Apr 07, 2019 11:08:11.996 [0x7fecf59b2b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout && Children Of Bodom - Needled.mpg"
+Apr 07, 2019 11:08:11.997 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Statistics: 3788944 bytes read, 2 seeks
+Apr 07, 2019 11:08:12.200 [0x7fecf59b2b80] DEBUG - Committing media stream changes for part 2007
+Apr 07, 2019 11:08:12.210 [0x7fecf59b2b80] DEBUG - Updating media item 2007, size=87480324, metadata_item_id=2242
+Apr 07, 2019 11:08:12.210 [0x7fecf59b2b80] DEBUG - Updating part with ID=2007 [/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout & Children Of Bodom - Needled.mpg]
+Apr 07, 2019 11:08:12.219 [0x7fecf59b2b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout && Children Of Bodom - Needled.mpg"
+Apr 07, 2019 11:08:12.219 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout & Children Of Bodom - Needled.mpg' for reading
+Apr 07, 2019 11:08:12.219 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:12.223 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:12.263 [0x7fecf59b2b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3788944 seeks:2 frames:1368
+Apr 07, 2019 11:08:12.264 [0x7fecf59b2b80] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/1/35a34a3b4404035a7b8bf5eaae2f74f6aa39526.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Apr 07, 2019 11:08:12.284 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:12.284 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.284 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:12.284 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:12.318 [0x7fecf59b2b80] DEBUG - Loaded memory image of size 352x262.
+Apr 07, 2019 11:08:12.323 [0x7fecf59b2b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Soilwork - The Flameout && Children Of Bodom - Needled.mpg"
+Apr 07, 2019 11:08:12.324 [0x7fecf59b2b80] DEBUG - [FFMPEG] - Statistics: 3854480 bytes read, 3 seeks
+Apr 07, 2019 11:08:12.328 [0x7fecf59b2b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.328 [0x7fecf59b2b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.330 [0x7fecf59b2b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.330 [0x7fecf59b2b80] DEBUG - Updating metadata item (save) (Soilwork - The Flameout & Children Of Bodom - Needled) with ID 2242
+Apr 07, 2019 11:08:12.332 [0x7fece703f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:12.336 [0x7fece703f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:12.336 [0x7fece703f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:12.337 [0x7fecf59b2b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.337 [0x7fecf59b2b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.338 [0x7fece703f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:12.338 [0x7fecf59b2b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:12.338 [0x7fecf59b2b80] DEBUG - Updating metadata item (save) (Soilwork - The Flameout & Children Of Bodom - Needled) with ID 2242
+Apr 07, 2019 11:08:12.338 [0x7fece703f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:12.340 [0x7fece703f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:12.340 [0x7fece703f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:12.345 [0x7fece703f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2242&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:12.345 [0x7fece703f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache

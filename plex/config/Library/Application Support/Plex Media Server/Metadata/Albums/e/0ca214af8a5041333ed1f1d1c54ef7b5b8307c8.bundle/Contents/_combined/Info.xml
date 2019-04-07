@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Rock</item>
+  </genres>
+  <originally_available_at>1983-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/77fa9b02b60c0c5230ec1860c2d314c9.png" media="com.plexapp.agents.lastfm_4f064d6dee8eb8756a66259d010cb1ad6876015a" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Bollicine</title>
+  <tracks>
+    <item guid="local://345" path="tracks/df0a7aff9152f0590f5eb26314e47a1009f51038">
+      <lyrics/>
+      <moods/>
+      <rating_count>4559</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://344" path="tracks/3b2fb4a29824ab158975efbde2250b5b30c74a3a">
+      <lyrics/>
+      <moods/>
+      <rating_count>9363</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://346" path="tracks/969a3b588d33b2486ff9cdad5fb125e06b24a41e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-9891015&amp;artist=Vasco%20Rossi&amp;album=Bollicine&amp;track=Mi%20Piaci%20Perch%E8" remote="com.plexapp.agents.lyricfind_a0981e48726c8819b08c80b879d63820f1a5413f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3178</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://341" path="tracks/b443920e2e3a050c2474efe0eac6882ddbe238da">
+      <lyrics/>
+      <moods/>
+      <rating_count>10450</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://339" path="tracks/779397e36ee8e587a71d13186faeff0e34f3b76c">
+      <lyrics/>
+      <moods/>
+      <rating_count>33793</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://343" path="tracks/3bce1344e666fd966a08f670e2e1dc9633f90066">
+      <lyrics/>
+      <moods/>
+      <rating_count>14652</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://342" path="tracks/77460a18faba39a59381874c3f60d9ccf6b894db">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Bollicine&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_e525a2c0bb67c06d20aa1ae15c74c11b804c6e24" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;artist=Vasco%20Rossi&amp;album=Bollicine&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_319b1705351d2e4f588a058c43e7adab13cdf850" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62805</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://340" path="tracks/6f10a6e3601b7347e948273a9da7131ace7fb420">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8946008&amp;artist=Vasco%20Rossi&amp;album=Bollicine&amp;track=Una%20Canzone%20Per%20Te" remote="com.plexapp.agents.lyricfind_f4bb53a060897387a2547c6dc07d6a420356a921" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62275</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

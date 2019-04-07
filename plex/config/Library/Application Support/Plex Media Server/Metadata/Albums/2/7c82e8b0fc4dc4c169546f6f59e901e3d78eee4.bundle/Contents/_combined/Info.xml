@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://620" path="tracks/cd0f1c8805faab510577a400155194c5b9a62cc6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-35785970&amp;lrc=1&amp;artist=Children%20of%20Bodom&amp;album=%5BUnknown%20Album%5D&amp;track=Are%20You%20Dead%20Yet" remote="com.plexapp.agents.lyricfind_be79f3416c4374999753eab3fd02b0580c9c5e21" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-35785970&amp;artist=Children%20of%20Bodom&amp;album=%5BUnknown%20Album%5D&amp;track=Are%20You%20Dead%20Yet" remote="com.plexapp.agents.lyricfind_bd9f51e19dcf93d24525fc077773eefc7ec80ed6" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2309731</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

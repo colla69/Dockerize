@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <originally_available_at>1989-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="c7f71b34f834ed55973bc26071d878a4" media="com.plexapp.agents.localmedia_f4b59f7435eaa9636b417bb9be8fa7ec2dffa732" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="35e164f4391826a7e8deb0e51ce2fc0b" media="com.plexapp.agents.localmedia_b981c76189cfaee68446982d49110a0b9170bae4" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/bd194c64bf6f424cabd2a7228d79dec8.png" media="com.plexapp.agents.lastfm_9e6f8de9f9f833dcc27b32fb2c7daa2dd736b63e" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Liberi Liberi</title>
+  <tracks>
+    <item guid="local://288" path="tracks/4ebf7f7c7e838a462865a788b0d8de6ac68d48f4">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009458&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=Dillo%20Alla%20Luna" remote="com.plexapp.agents.lyricfind_a60063809a5c7966371b315e5391b03a1a66c88b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>24371</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://289" path="tracks/f383c43fa9e96df7981ff64d24548ecb582ee6f4">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009457&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=%22Stasera%21%22" remote="com.plexapp.agents.lyricfind_246f60f51910457f4868a93ac8d3c831e3771db0" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2679</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://282" path="tracks/e7c972dda710952b97ec3cdac58e67119f6316d8">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009464&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=Domenica%20Lunatica" remote="com.plexapp.agents.lyricfind_7eee07b3330276c02bc495526e425dc9af4fca39" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>19365</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://283" path="tracks/68dd419b162a4baba2155558f85539b7a141b5cc">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009463&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=Ormai%20%C8%20Tardi" remote="com.plexapp.agents.lyricfind_0a7763a131a67dd7899ea5534f52047148a8bbb5" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>9170</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://284" path="tracks/072b14f8208f37e12bf06c7fe6aacd6fa38811c1">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009462&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=...Muoviti%21" remote="com.plexapp.agents.lyricfind_2b46b59347389edb5eb66c93b73d17f5b4c1bc60" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2492</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://285" path="tracks/92d3e8d465a6266768784e0b5a3ad3907088d7e4">
+      <lyrics/>
+      <moods/>
+      <rating_count>9133</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://286" path="tracks/ecfaa3ed6c8f49d22112f8ae9deb0d7bd0f3f54a">
+      <lyrics/>
+      <moods/>
+      <rating_count>2194</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://287" path="tracks/abce7d12348dab670cd8509f1eb64d258fcaa609">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_e26dcde6bd82dc924b3a175cfea0b6474a568c9d" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;artist=Vasco%20Rossi&amp;album=Liberi..%20Liberi&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_8e713437825dff933bb3c3ecd5ff94a12347506c" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3477</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

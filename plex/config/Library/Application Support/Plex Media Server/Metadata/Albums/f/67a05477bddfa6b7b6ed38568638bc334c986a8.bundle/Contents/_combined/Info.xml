@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <originally_available_at>1993-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="9ba97b2c8d8ea1e6af89efe594a39fa0" media="com.plexapp.agents.localmedia_d28d94e0fb2b721fc8b7adc0b29433e550ad7702" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="b75553674dc208b054e873c514274219" media="com.plexapp.agents.localmedia_eb9a3b656312a5b7e754d77b30857836f43bdad2" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/a2c94f495ea5ae611d216b287c5772b2.png" media="com.plexapp.agents.lastfm_7b388ee48fb63db8f99876a1bac9f872cbf048ba" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Gli Spari Sopra</title>
+  <tracks>
+    <item guid="local://248" path="tracks/ffee38f7420d47b1d436cb47c25b40a3a01c8c66">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298816&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Lo%20Show" remote="com.plexapp.agents.lyricfind_a2564a890b3dbb1cb2704ceb54ed6b8e67fd7d53" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7256</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://260" path="tracks/639dd12d2b115c80984bb356745add7c803c7655">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298828&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Walzer%20Di%20Gomma" remote="com.plexapp.agents.lyricfind_202ae88038f55cf8abfbc51d04b0249c6a7d7d3a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2817</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://259" path="tracks/590d753373789553caf8cd67f39996edcc92ce2b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298827&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Hai%20Ragione%20Tu" remote="com.plexapp.agents.lyricfind_0018b621fa31bdccb21035c7e39ee1ee1faf29af" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4845</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://261" path="tracks/6370fc7cfb21f50a490f9201002c606c62417d16">
+      <lyrics/>
+      <moods/>
+      <rating_count>1664</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://257" path="tracks/a06728d1a8f93e7a8e910f1be08d6fb9fd7897a6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298825&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=L%27%20Uomo%20Che%20Hai%20Di%20Fronte" remote="com.plexapp.agents.lyricfind_29a1b274a37aedc3228b8b02aa36e82f570369e6" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3155</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://256" path="tracks/7df78e2ab84fefe8e9eb29681212de271e0e7b37">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298824&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Vuoi%20Star%20Ferma%21" remote="com.plexapp.agents.lyricfind_d9dd4c7a062522fce0ffa5ae4c5320f9ae3a0534" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3108</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://255" path="tracks/e84ff3375f9a53e5ad39b5b07122092f8c29bf99">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298823&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=...Stupendo" remote="com.plexapp.agents.lyricfind_a9173cba9cde639b58b0a7ff592c269766836a3e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>14388</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://254" path="tracks/e147bbd07afbeb1b7d923fde05a8e876cb66ef35">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298822&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Delusa" remote="com.plexapp.agents.lyricfind_15f056e811a6622c6cde9b2be5d14aca9f7f1841" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298822&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Delusa" remote="com.plexapp.agents.lyricfind_943e76d5aed81c914e527e52e4e12fd88dd55853" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>13240</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://253" path="tracks/24a8a81b53a51b0eb79d25f7daa53d11b083cd0e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298821&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Ci%20Credi" remote="com.plexapp.agents.lyricfind_6e7527a90efb4264cc79ea68f000679e279dc544" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>5466</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://252" path="tracks/d45bd35e0fff442bc6217cac11b937b8ea55da43">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298820&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Gabri" remote="com.plexapp.agents.lyricfind_f7840f9ff8b3fbdb3769407e8bdaa84b1f51c2a2" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>22992</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://251" path="tracks/471fabac584e74985bab5d42a2b3cf0d109e0673">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298819&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Vivere" remote="com.plexapp.agents.lyricfind_5bace1bea09749f2bbe5f72b3deda2c6ce6b2a6b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>55457</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://250" path="tracks/2b2e5525e2d72405f04db79180283ee41a6bf354">
+      <lyrics/>
+      <moods/>
+      <rating_count>4810</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://258" path="tracks/2d000e4f577ea7fa258cdd8b4a436aacd9d3cdd2">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298826&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Occhi%20Blu" remote="com.plexapp.agents.lyricfind_e64b9803a6523e2ef24cf9f47803f07cce2f1b07" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7353</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://249" path="tracks/2a003b74c6762f7e6d068376d86f8346d91e2f50">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298817&amp;artist=Vasco%20Rossi&amp;album=Gli%20Spari%20Sopra&amp;track=Non%20Appari%20Mai" remote="com.plexapp.agents.lyricfind_63094d9c4f776d9ce2dca046b7d708e2735e398a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4823</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

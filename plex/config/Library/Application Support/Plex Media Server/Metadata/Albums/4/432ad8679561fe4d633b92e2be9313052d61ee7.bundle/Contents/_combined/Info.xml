@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <originally_available_at>1990-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/a7faa23269e0f776d6e2a1fcf2d4d158.png" media="com.plexapp.agents.lastfm_aed195716b3327f180525bf5b99882d97b08bb2b" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Fronte Del Palco</title>
+  <tracks>
+    <item guid="local://266" path="tracks/e17ea8e23a3ab32af7a0417b28f3fd3250ff9afa">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009458&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Dillo%20Alla%20Luna" remote="com.plexapp.agents.lyricfind_c52d832731b1698150180ad8e16cad748d634599" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>24371</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://267" path="tracks/fb3d4b693e415565ba205e3844b27811b1c9a13c">
+      <lyrics/>
+      <moods/>
+      <rating_count>2194</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://273" path="tracks/f600829f967b0b58ddda416a12e23902c297b8ba">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-24034456&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_ea74e1d49f0510734026e9b8b2c94b598719d014" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62805</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://272" path="tracks/911dc4348aed791f167bcbc991acf2416f69baf9">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764337&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Vivere%20Una%20Favola" remote="com.plexapp.agents.lyricfind_f3a4b06cc996b37d900cbfd00005c68756635218" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>17463</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://275" path="tracks/2e7bbfb20cc8304170742f249e62c8a432c29a53">
+      <lyrics/>
+      <moods/>
+      <rating_count>9133</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://274" path="tracks/022da2fa5bfaef9ba7b79f4c713c7fdf7e22eeed">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_0a383ea0ec292e13703dd5d095e9ca7e0b717fa1" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_3c5fe9c8a49e4b0bd36d36fa82c4a3045857e528" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3477</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://277" path="tracks/2afdca10367ded82607ac204db0204f81da1ac7b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435865&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Siamo%20Solo%20Noi" remote="com.plexapp.agents.lyricfind_1941f3a17cf2089947260524866160b7e07dcf70" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>44521</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://276" path="tracks/452f5f3dc4bec00ffee410f3fb48d215e0810aa4">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009464&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Domenica%20Lunatica" remote="com.plexapp.agents.lyricfind_ea8c62c34f3de603517b8ed144ec0b41f31971ee" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>19365</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://279" path="tracks/d66846b334008251c7d4dd2dcc4ad65b710f5bd1">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_3b751821104ef86954f198e8c0d3f497eb7b9d91" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_77c424afa34d85eeb7990e516f652dca9b9178b8" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>102962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://278" path="tracks/984f1ec35bb5f43051b59eb07d04188d5e422598">
+      <lyrics/>
+      <moods/>
+      <rating_count>23046</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://264" path="tracks/0b4d42b1350751fcef4719d32bef102079be3d14">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764340&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=%22Blasco%22%20Rossi" remote="com.plexapp.agents.lyricfind_15a5ed0fc026ee33b645b7c26688c6333116b9c6" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4344</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://268" path="tracks/9ac49a8f601854d97bd80ef14b1bdca5d378057b">
+      <lyrics/>
+      <moods/>
+      <rating_count>14652</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://269" path="tracks/a7d89d84369a4c21d83d4fbe6347398dd29683a7">
+      <lyrics/>
+      <moods/>
+      <rating_count>54146</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://270" path="tracks/778c2589fc6084da1516e36f1efcfc33fede14ce">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764339&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=Ridere%20Di%20Te" remote="com.plexapp.agents.lyricfind_dd376adb33995dcba1fb2b6e239dc9dc3711eae4" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>34419</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://280" path="tracks/df749878391d47ca0955ee72396f9f330603d3da">
+      <lyrics/>
+      <moods/>
+      <rating_count>10371</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://265" path="tracks/29ce11ec4b7f08a9795b3816e3d5714e7ea29e6b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764338&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=C%27%C8%20Chi%20Dice%20No" remote="com.plexapp.agents.lyricfind_58cde36bfaab20857aa5daeda0ceb8039903466d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>28818</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://271" path="tracks/3627df187c00d22c859bfbab3839e5e9f867d9db">
+      <lyrics/>
+      <moods/>
+      <rating_count>4832</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://263" path="tracks/fb1a186176d72cc78f731bbaf8077383cc606221">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009462&amp;artist=Vasco%20Rossi&amp;album=Fronte%20Del%20Palco&amp;track=...Muoviti%21" remote="com.plexapp.agents.lyricfind_9ae534a5b7924b7a2c9a14f5b07a994f43793f62" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2492</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

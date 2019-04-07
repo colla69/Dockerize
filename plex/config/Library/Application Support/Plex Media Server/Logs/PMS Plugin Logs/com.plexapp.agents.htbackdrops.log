@@ -1,0 +1,851 @@
+2019-04-07 11:03:04,067 (7faa7288eb80) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 782228f (Wed Mar 13 14:39:35 UTC 2019)
+2019-04-07 11:03:04,068 (7faa7288eb80) :  DEBUG (core:361) - Using the standard policy
+2019-04-07 11:03:04,068 (7faa7288eb80) :  DEBUG (core:450) - Starting runtime component.
+2019-04-07 11:03:04,120 (7faa7288eb80) :  DEBUG (core:450) - Starting caching component.
+2019-04-07 11:03:04,120 (7faa7288eb80) :  DEBUG (core:450) - Starting data component.
+2019-04-07 11:03:04,121 (7faa7288eb80) :  DEBUG (core:450) - Starting networking component.
+2019-04-07 11:03:04,122 (7faa7288eb80) :  DEBUG (networking:284) - Loaded HTTP cookies
+2019-04-07 11:03:04,122 (7faa7288eb80) :  DEBUG (caching:108) - No info file found, trashing the cache folder
+2019-04-07 11:03:04,124 (7faa7288eb80) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2019-04-07 11:03:04,125 (7faa7288eb80) :  DEBUG (core:450) - Starting localization component.
+2019-04-07 11:03:04,125 (7faa7288eb80) :  INFO (localization:409) - Setting the default locale to en-us
+2019-04-07 11:03:04,126 (7faa7288eb80) :  DEBUG (core:450) - Starting messaging component.
+2019-04-07 11:03:04,126 (7faa7288eb80) :  DEBUG (core:450) - Starting debugging component.
+2019-04-07 11:03:04,126 (7faa7288eb80) :  DEBUG (core:450) - Starting services component.
+2019-04-07 11:03:04,127 (7faa7288eb80) :  DEBUG (core:450) - Starting myplex component.
+2019-04-07 11:03:04,127 (7faa7288eb80) :  DEBUG (core:450) - Starting notifications component.
+2019-04-07 11:03:04,134 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.htbackdrops'
+2019-04-07 11:03:04,333 (7faa7288eb80) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.htbackdrops in namespace 'metadata'
+2019-04-07 11:03:04,340 (7faa7288eb80) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2019-04-07 11:03:04,364 (7faa7288eb80) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2019-04-07 11:03:04,364 (7faa527fc700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2019-04-07 11:03:04,365 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2019-04-07 11:03:04,370 (7faa7288eb80) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2019-04-07 11:03:04,370 (7faa7288eb80) :  DEBUG (core:150) - Finished starting framework core
+2019-04-07 11:03:04,371 (7faa7288eb80) :  DEBUG (core:560) - Loading plug-in code
+2019-04-07 11:03:04,371 (7faa517fa700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2019-04-07 11:03:04,410 (7faa7288eb80) :  DEBUG (core:566) - Finished loading plug-in code
+2019-04-07 11:03:04,411 (7faa7288eb80) :  DEBUG (messaging:69) - Exposing function ArtistSearch for remote access
+2019-04-07 11:03:04,431 (7faa7288eb80) :  DEBUG (agentkit:1115) - Creating new agent class called HTBDAgent
+2019-04-07 11:03:04,444 (7faa517fa700) :  DEBUG (core:538) - Machine identifier is acc97cc7ce3a3b23a94344f2dfeb76d754c63655
+2019-04-07 11:03:04,444 (7faa517fa700) :  DEBUG (core:539) - Server version is 1.15.2.793-782228f99
+2019-04-07 11:03:04,455 (7faa7288eb80) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Artist'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.lastfm'], 'languages': ['ab', 'aa', 'af', 'ak', 'sq', 'am', 'ar', 'an', 'hy', 'as', 'av', 'ae', 'ay', 'az', 'bm', 'ba', 'eu', 'be', 'bn', 'bh', 'bi', 'bs', 'pb', 'br', 'bg', 'my', 'ca', 'ch', 'ce', 'ny', 'zh', 'cu', 'cv', 'kw', 'co', 'cr', 'hr', 'cs', 'da', 'dv', 'nl', 'dz', 'en', 'eo', 'et', 'ee', 'fo', 'fj', 'fi', 'fr', 'fy', 'ff', 'gd', 'gl', 'lg', 'ka', 'de', 'el', 'gn', 'gu', 'ht', 'ha', 'he', 'hz', 'hi', 'ho', 'hu', 'is', 'io', 'ig', 'id', 'ia', 'ie', 'iu', 'ik', 'ga', 'it', 'ja', 'jv', 'kl', 'kn', 'kr', 'ks', 'kk', 'km', 'ki', 'rw', 'ky', 'kv', 'kg', 'ko', 'kj', 'ku', 'lo', 'la', 'lv', 'li', 'ln', 'lt', 'lu', 'lb', 'mk', 'mg', 'ms', 'ml', 'mt', 'gv', 'mi', 'mr', 'mh', 'mo', 'mn', 'na', 'nv', 'ng', 'ne', 'xn', 'nd', 'no', 'nb', 'nn', 'oc', 'oj', 'or', 'om', 'os', 'pi', 'pa', 'fa', 'pl', 'pt', 'ps', 'qu', 'rm', 'ro', 'rn', 'ru', 'se', 'sm', 'sg', 'sa', 'sc', 'sr', 'sn', 'ii', 'sd', 'si', 'sk', 'sl', 'so', 'st', 'nr', 'es', 'su', 'sw', 'ss', 'sv', 'tl', 'ty', 'tg', 'ta', 'tt', 'te', 'th', 'bo', 'ti', 'to', 'ts', 'tn', 'tr', 'tk', 'tw', 'ug', 'uk', 'ur', 'uz', 've', 'vi', 'vo', 'wa', 'cy', 'wo', 'xh', 'yi', 'yo', 'za', 'zu'], 'persist_stored_files': True, 'version': 0, 'primary_provider': False, 'prefs': False, 'name': 'Home Theater Backdrops'}]
+2019-04-07 11:03:04,458 (7faa7288eb80) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo2CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczMwCmNvbS5wbGV4YXBwLmFnZW50cy5odGJhY2tkcm9wc3MxMAppZGVudGlmaWVycjEKczEwCmFnZW50X2luZm8xCnIyCjEwCnIzCnMxMQptZWRpYV90eXBlc25zMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI0CnMxNApjb250cmlidXRlc190b3I1CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIwczE2CnByaW1hcnlfcHJvdmlkZXJiMHM1CnByZWZzczIyCkhvbWUgVGhlYXRlciBCYWNrZHJvcHNzNApuYW1lMQpzNgpBcnRpc3QxCnMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtMTg3CnMyCmFiczIKYWFzMgphZnMyCmFrczIKc3FzMgphbXMyCmFyczIKYW5zMgpoeXMyCmFzczIKYXZzMgphZXMyCmF5czIKYXpzMgpibXMyCmJhczIKZXVzMgpiZXMyCmJuczIKYmhzMgpiaXMyCmJzczIKcGJzMgpicnMyCmJnczIKbXlzMgpjYXMyCmNoczIKY2VzMgpueXMyCnpoczIKY3VzMgpjdnMyCmt3czIKY29zMgpjcnMyCmhyczIKY3NzMgpkYXMyCmR2czIKbmxzMgpkenMyCmVuczIKZW9zMgpldHMyCmVlczIKZm9zMgpmanMyCmZpczIKZnJzMgpmeXMyCmZmczIKZ2RzMgpnbHMyCmxnczIKa2FzMgpkZXMyCmVsczIKZ25zMgpndXMyCmh0czIKaGFzMgpoZXMyCmh6czIKaGlzMgpob3MyCmh1czIKaXNzMgppb3MyCmlnczIKaWRzMgppYXMyCmllczIKaXVzMgppa3MyCmdhczIKaXRzMgpqYXMyCmp2czIKa2xzMgprbnMyCmtyczIKa3NzMgpra3MyCmttczIKa2lzMgpyd3MyCmt5czIKa3ZzMgprZ3MyCmtvczIKa2pzMgprdXMyCmxvczIKbGFzMgpsdnMyCmxpczIKbG5zMgpsdHMyCmx1czIKbGJzMgpta3MyCm1nczIKbXNzMgptbHMyCm10czIKZ3ZzMgptaXMyCm1yczIKbWhzMgptb3MyCm1uczIKbmFzMgpudnMyCm5nczIKbmVzMgp4bnMyCm5kczIKbm9zMgpuYnMyCm5uczIKb2NzMgpvanMyCm9yczIKb21zMgpvc3MyCnBpczIKcGFzMgpmYXMyCnBsczIKcHRzMgpwc3MyCnF1czIKcm1zMgpyb3MyCnJuczIKcnVzMgpzZXMyCnNtczIKc2dzMgpzYXMyCnNjczIKc3JzMgpzbnMyCmlpczIKc2RzMgpzaXMyCnNrczIKc2xzMgpzb3MyCnN0czIKbnJzMgplc3MyCnN1czIKc3dzMgpzc3MyCnN2czIKdGxzMgp0eXMyCnRnczIKdGFzMgp0dHMyCnRlczIKdGhzMgpib3MyCnRpczIKdG9zMgp0c3MyCnRuczIKdHJzMgp0a3MyCnR3czIKdWdzMgp1a3MyCnVyczIKdXpzMgp2ZXMyCnZpczIKdm9zMgp3YXMyCmN5czIKd29zMgp4aHMyCnlpczIKeW9zMgp6YXMyCnp1cjAK'
+2019-04-07 11:03:04,555 (7faa7288eb80) :  INFO (core:611) - Started plug-in
+2019-04-07 11:03:04,555 (7faa7288eb80) :  DEBUG (socketinterface:160) - Starting socket server
+2019-04-07 11:03:04,562 (7faa7288eb80) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2019-04-07 11:03:04,562 (7faa7288eb80) :  INFO (socketinterface:184) - Socket server started on port 46081
+2019-04-07 11:03:04,566 (7faa527fc700) :  DEBUG (services:362) - Loaded services
+2019-04-07 11:03:04,566 (7faa7288eb80) :  INFO (pipeinterface:25) - Entering run loop
+2019-04-07 11:03:04,567 (7faa7288eb80) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2019-04-07 11:03:04,576 (7faa51ffb700) :  DEBUG (services:438) - No shared code to load
+2019-04-07 11:03:04,579 (7faa7288eb80) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2019-04-07 11:03:04,580 (7faa7288eb80) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 155 bytes
+2019-04-07 11:03:04,674 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDkKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1Zhc2NvJTIwUm9zc2k%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMxCjFzMgppZHIwCg__
+2019-04-07 11:03:04,696 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDkKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1Zhc2NvJTIwUm9zc2k@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMxCjFzMgppZHIwCg__
+2019-04-07 11:03:04,696 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '1', 'guid': 'com.plexapp.agents.lastfm://Vasco%20Rossi?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:03:04,697 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/1/tree'
+2019-04-07 11:03:04,718 (7faa51ffb700) :  DEBUG (accessor:68) - Creating a new read-only model access point for provider com.plexapp.agents.lastfm in namespace 'metadata'
+2019-04-07 11:03:04,726 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Vasco%20Rossi?lang=en
+2019-04-07 11:03:04,728 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/e/207337c4c98ab683e041fd9c78b03b52adf18e8.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:03:04,731 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=vasco+rossi&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:03:04,966 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=vasco+rossi&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:03:05,969 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=vasco+rossi&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:03:06,171 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=vasco+rossi&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:03:07,174 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '1', 'guid': 'com.plexapp.agents.lastfm://Vasco%20Rossi?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:03:07,176 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:03:07,176 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:03:07,184 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0OQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vVmFzY28lMjBSb3NzaT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:03:07,186 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0OQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vVmFzY28lMjBSb3NzaT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:03:07,187 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:03:07,187 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:03:31,000 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTkKQXJ0aXN0YSBzY29ub3NjaXV0b3MxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:03:31,005 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTkKQXJ0aXN0YSBzY29ub3NjaXV0b3MxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:03:31,006 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=artista+sconosciuto&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:03:31,173 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=artista+sconosciuto&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:03:32,176 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=artista+sconosciuto&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:03:32,352 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=artista+sconosciuto&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:03:33,354 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:03:33,356 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:03:33,356 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:05:43,448 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTQKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0x1ZG92aWNvJTIwRWluYXVkaT9sYW5nPWVuczQKZ3VpZGIxczUKZm9yY2VzMjUKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbXMxMwpwcmltYXJ5X2FnZW50czMKNDA0czIKaWRyMAo_
+2019-04-07 11:05:43,451 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:05:43,452 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTQKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0x1ZG92aWNvJTIwRWluYXVkaT9sYW5nPWVuczQKZ3VpZGIxczUKZm9yY2VzMjUKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbXMxMwpwcmltYXJ5X2FnZW50czMKNDA0czIKaWRyMAo_
+2019-04-07 11:05:43,453 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '404', 'guid': 'com.plexapp.agents.lastfm://Ludovico%20Einaudi?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:05:43,453 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/404/tree'
+2019-04-07 11:05:43,483 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Ludovico%20Einaudi?lang=en
+2019-04-07 11:05:43,483 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/c/2fe0ae4e362bee2f0df4d3dc8b5d318eaecb2ef.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:05:43,492 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ludovico+einaudi&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:05:43,657 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ludovico+einaudi&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:05:44,660 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ludovico+einaudi&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:05:44,823 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ludovico+einaudi&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:05:45,830 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '404', 'guid': 'com.plexapp.agents.lastfm://Ludovico%20Einaudi?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:05:45,833 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:05:45,833 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:05:45,844 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1NApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTHVkb3ZpY28lMjBFaW5hdWRpP2xhbmc9ZW5zNApndWlkcjAK
+2019-04-07 11:05:45,848 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:05:45,849 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1NApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTHVkb3ZpY28lMjBFaW5hdWRpP2xhbmc9ZW5zNApndWlkcjAK
+2019-04-07 11:05:45,850 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:05:45,850 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:05:52,872 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1ZhcmlvdXMlMjBBcnRpc3RzP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo0OTdzMgppZHIwCg__
+2019-04-07 11:05:52,873 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:05:52,875 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1ZhcmlvdXMlMjBBcnRpc3RzP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo0OTdzMgppZHIwCg__
+2019-04-07 11:05:52,876 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '497', 'guid': 'com.plexapp.agents.lastfm://Various%20Artists?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:05:52,877 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/497/tree'
+2019-04-07 11:05:52,907 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Various%20Artists?lang=en
+2019-04-07 11:05:52,912 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/c/5038b2eb1102b83f6ec48c3295dac0c1e7e057c.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:05:52,913 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=various+artists&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:05:53,074 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=various+artists&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:05:54,077 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=various+artists&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:05:54,248 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=various+artists&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:05:55,251 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '497', 'guid': 'com.plexapp.agents.lastfm://Various%20Artists?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:05:55,253 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:05:55,253 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:05:55,265 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vVmFyaW91cyUyMEFydGlzdHM%40bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:05:55,266 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:05:55,267 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vVmFyaW91cyUyMEFydGlzdHM@bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:05:55,269 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:05:55,269 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:14,096 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0ltbWFudWVsJTIwQ2FzdG8%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjU5OXMyCmlkcjAK
+2019-04-07 11:06:14,098 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:06:14,099 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0ltbWFudWVsJTIwQ2FzdG8@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjU5OXMyCmlkcjAK
+2019-04-07 11:06:14,100 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '599', 'guid': 'com.plexapp.agents.lastfm://Immanuel%20Casto?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:06:14,100 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/599/tree'
+2019-04-07 11:06:14,108 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Immanuel%20Casto?lang=en
+2019-04-07 11:06:14,108 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/6/2a189880f1a71061f797919c9aafe88dadecedb.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:06:14,111 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=immanuel+casto&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:14,321 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=immanuel+casto&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:15,322 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=immanuel+casto&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:15,489 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=immanuel+casto&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:16,491 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '599', 'guid': 'com.plexapp.agents.lastfm://Immanuel%20Casto?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:06:16,493 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:06:16,493 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:16,504 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSW1tYW51ZWwlMjBDYXN0bz9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:06:16,505 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:06:16,506 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSW1tYW51ZWwlMjBDYXN0bz9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:06:16,508 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:06:16,508 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:17,041 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTcKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0NoaWxkcmVuJTIwb2YlMjBCb2RvbT9sYW5nPWVuczQKZ3VpZGIxczUKZm9yY2VzMjUKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbXMxMwpwcmltYXJ5X2FnZW50czMKNjA2czIKaWRyMAo_
+2019-04-07 11:06:17,042 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:06:17,044 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTcKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0NoaWxkcmVuJTIwb2YlMjBCb2RvbT9sYW5nPWVuczQKZ3VpZGIxczUKZm9yY2VzMjUKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbXMxMwpwcmltYXJ5X2FnZW50czMKNjA2czIKaWRyMAo_
+2019-04-07 11:06:17,044 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '606', 'guid': 'com.plexapp.agents.lastfm://Children%20of%20Bodom?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:06:17,045 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/606/tree'
+2019-04-07 11:06:17,057 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Children%20of%20Bodom?lang=en
+2019-04-07 11:06:17,057 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/5/e52607bd8f8dba2281f9f7e0175474a1099b0e6.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:06:17,068 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=children+of+bodom&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:17,234 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=children+of+bodom&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:18,236 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=children+of+bodom&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:18,401 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=children+of+bodom&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:19,404 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '606', 'guid': 'com.plexapp.agents.lastfm://Children%20of%20Bodom?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:06:19,405 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:06:19,405 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:19,413 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Nwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vQ2hpbGRyZW4lMjBvZiUyMEJvZG9tP2xhbmc9ZW5zNApndWlkcjAK
+2019-04-07 11:06:19,414 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:06:19,416 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Nwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vQ2hpbGRyZW4lMjBvZiUyMEJvZG9tP2xhbmc9ZW5zNApndWlkcjAK
+2019-04-07 11:06:19,417 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:06:19,417 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:25,017 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjkKwpVzwpbCvsKCw4jCg0HCgVvCg2XCg0LCg1jCg2dzMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:06:25,018 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:06:25,020 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjkKwpVzwpbCvsKCw4jCg0HCgVvCg2XCg0LCg1jCg2dzMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:06:25,022 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=%C2%95s%C2%96%C2%BE%C2%82%C3%A8%C2%83a%C2%81%5B%C2%83e%C2%83b%C2%83x%C2%83g&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:25,230 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=%C2%95s%C2%96%C2%BE%C2%82%C3%A8%C2%83a%C2%81%5B%C2%83e%C2%83b%C2%83x%C2%83g&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:26,233 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=%C2%95s%C2%96%C2%BE%C2%82%C3%A8%C2%83a%C2%81%5B%C2%83e%C2%83b%C2%83x%C2%83g&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:26,395 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=%C2%95s%C2%96%C2%BE%C2%82%C3%A8%C2%83a%C2%81%5B%C2%83e%C2%83b%C2%83x%C2%83g&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:27,398 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:06:27,399 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:06:27,399 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:06:56,182 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDcKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0luJTIwRmxhbWVzP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo2NDRzMgppZHIwCg__
+2019-04-07 11:06:56,183 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:06:56,184 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDcKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0luJTIwRmxhbWVzP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo2NDRzMgppZHIwCg__
+2019-04-07 11:06:56,185 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '644', 'guid': 'com.plexapp.agents.lastfm://In%20Flames?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:06:56,185 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/644/tree'
+2019-04-07 11:06:56,229 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://In%20Flames?lang=en
+2019-04-07 11:06:56,229 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/8/4bbc6d64744bfd5accfbaa18fe84d485e3b4fca.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:06:56,236 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=in+flames&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:56,409 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=in+flames&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:57,412 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=in+flames&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:06:58,099 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=in+flames&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:06:59,101 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '644', 'guid': 'com.plexapp.agents.lastfm://In%20Flames?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:06:59,103 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:06:59,104 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:06:59,114 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0Nwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSW4lMjBGbGFtZXM%40bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:06:59,115 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:06:59,117 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0Nwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSW4lMjBGbGFtZXM@bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:06:59,118 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:06:59,119 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:07:33,270 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1OQpEZSBBbmRyw6hzMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:07:33,271 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:07:33,273 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1OQpEZSBBbmRyw6hzMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:07:33,274 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andr%C3%A8&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:33,478 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andr%C3%A8&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:34,480 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andr%C3%A8&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:34,696 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andr%C3%A8&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:35,699 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:07:35,700 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:07:35,700 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:07:49,722 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL01hc3NpbW8lMjBCdWJvbGE%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjg5OHMyCmlkcjAK
+2019-04-07 11:07:49,723 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:07:49,724 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL01hc3NpbW8lMjBCdWJvbGE@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjg5OHMyCmlkcjAK
+2019-04-07 11:07:49,725 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '898', 'guid': 'com.plexapp.agents.lastfm://Massimo%20Bubola?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:07:49,726 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/898/tree'
+2019-04-07 11:07:49,732 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Massimo%20Bubola?lang=en
+2019-04-07 11:07:49,733 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/a/89729db3427aca48db07f399d96944906dbcea8.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:07:49,735 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=massimo+bubola&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:50,051 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=massimo+bubola&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:51,052 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=massimo+bubola&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:51,215 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=massimo+bubola&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:52,161 (7faa527fc700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMjUKRmFicml6aW8gRGUgQW5kcmUnL0J1Ym9sYXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:07:52,162 (7faa527fc700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:07:52,163 (7faa527fc700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMjUKRmFicml6aW8gRGUgQW5kcmUnL0J1Ym9sYXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:07:52,164 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andre%27%2Fbubola&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:52,219 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '898', 'guid': 'com.plexapp.agents.lastfm://Massimo%20Bubola?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:07:52,221 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:07:52,221 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:07:52,251 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTWFzc2ltbyUyMEJ1Ym9sYT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:07:52,253 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:07:52,254 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTWFzc2ltbyUyMEJ1Ym9sYT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:07:52,256 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:07:52,256 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:07:53,369 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andre%27%2Fbubola&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:54,372 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andre%27%2Fbubola&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:54,382 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTYKRmFicml6aW8gRGVBbmRyZXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:07:54,383 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:07:54,384 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTYKRmFicml6aW8gRGVBbmRyZXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:07:54,386 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+deandre&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:54,538 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andre%27%2Fbubola&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:54,595 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+deandre&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:55,543 (7faa527fc700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:07:55,545 (7faa527fc700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:07:55,545 (7faa527fc700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:07:55,598 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+deandre&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:07:55,761 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+deandre&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:07:56,765 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:07:56,767 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:07:56,768 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:08:01,608 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTAKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1JpY2t5JTIwR2lhbmNvP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo5MTdzMgppZHIwCg__
+2019-04-07 11:08:01,609 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:01,610 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTAKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1JpY2t5JTIwR2lhbmNvP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo5MTdzMgppZHIwCg__
+2019-04-07 11:08:01,611 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '917', 'guid': 'com.plexapp.agents.lastfm://Ricky%20Gianco?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:01,611 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/917/tree'
+2019-04-07 11:08:01,618 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Ricky%20Gianco?lang=en
+2019-04-07 11:08:01,619 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/7/97a6d6c3bdc34248468816f47ea94475d3f2457.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:01,621 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ricky+gianco&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:01,821 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ricky+gianco&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:02,657 (7faa527fc700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNTUKRmFicml6aW8gJiBEb3JpIEdoZXp6aSBjb24gTGkgVHJvdWJhaXJlcyBkZSBDb3VtYm9zY3Vyb3MxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:02,659 (7faa527fc700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:02,661 (7faa527fc700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNTUKRmFicml6aW8gJiBEb3JpIEdoZXp6aSBjb24gTGkgVHJvdWJhaXJlcyBkZSBDb3VtYm9zY3Vyb3MxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:02,663 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+%26+dori+ghezzi+con+li+troubaires+de+coumboscuro&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:02,824 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ricky+gianco&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:02,868 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+%26+dori+ghezzi+con+li+troubaires+de+coumboscuro&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:02,995 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=ricky+gianco&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:03,870 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+%26+dori+ghezzi+con+li+troubaires+de+coumboscuro&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:03,998 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '917', 'guid': 'com.plexapp.agents.lastfm://Ricky%20Gianco?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:04,000 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:04,000 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:04,008 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1MApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vUmlja3klMjBHaWFuY28%40bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:04,009 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:04,010 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1MApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vUmlja3klMjBHaWFuY28@bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:04,012 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:04,012 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:04,038 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+%26+dori+ghezzi+con+li+troubaires+de+coumboscuro&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:05,041 (7faa527fc700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:05,043 (7faa527fc700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:05,043 (7faa527fc700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:08:07,624 (7faa527fc700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTcKRGUgQW5kcmUgRmFicml6aW9zMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:08:07,625 (7faa527fc700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:07,627 (7faa527fc700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMTcKRGUgQW5kcmUgRmFicml6aW9zMTEKYXJ0aXN0X25hbWVyMAo_
+2019-04-07 11:08:07,628 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andre+fabrizio&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:07,916 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andre+fabrizio&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:08,918 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andre+fabrizio&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:09,119 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=de+andre+fabrizio&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:10,123 (7faa527fc700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:10,125 (7faa527fc700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:10,125 (7faa527fc700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:08:10,885 (7faa527fc700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMjgKRm9zc2F0aSBEZSBBbmRyZScgRGUgR3JlZ29yaXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:10,887 (7faa527fc700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:10,888 (7faa527fc700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzMjgKRm9zc2F0aSBEZSBBbmRyZScgRGUgR3JlZ29yaXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:10,890 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fossati+de+andre%27+de+gregori&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:11,614 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fossati+de+andre%27+de+gregori&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:12,309 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjgKRmFicml6aW8gRGUgQW5kcsOpICYgQmFjY2luaXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:12,311 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:12,312 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjgKRmFicml6aW8gRGUgQW5kcsOpICYgQmFjY2luaXMxMQphcnRpc3RfbmFtZXIwCg__
+2019-04-07 11:08:12,313 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9+%26+baccini&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:12,617 (7faa527fc700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fossati+de+andre%27+de+gregori&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:12,778 (7faa527fc700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fossati+de+andre%27+de+gregori&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:13,530 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9+%26+baccini&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:13,782 (7faa527fc700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:13,784 (7faa527fc700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:13,785 (7faa527fc700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:08:14,533 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9+%26+baccini&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:14,704 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9+%26+baccini&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:15,707 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:15,709 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:15,709 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes
+2019-04-07 11:08:16,826 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0xhJTIwQ2lhcGElMjBSdXNhP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo5NDVzMgppZHIwCg__
+2019-04-07 11:08:16,827 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:16,828 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNTMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0xhJTIwQ2lhcGElMjBSdXNhP2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo5NDVzMgppZHIwCg__
+2019-04-07 11:08:16,828 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '945', 'guid': 'com.plexapp.agents.lastfm://La%20Ciapa%20Rusa?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:16,829 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/945/tree'
+2019-04-07 11:08:16,834 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://La%20Ciapa%20Rusa?lang=en
+2019-04-07 11:08:16,834 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/d/5655f2239df7676670b58a4b7080f59ac6bf5ba.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:16,836 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=la+ciapa+rusa&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:17,038 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=la+ciapa+rusa&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:18,040 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=la+ciapa+rusa&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:19,220 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=la+ciapa+rusa&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:20,224 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '945', 'guid': 'com.plexapp.agents.lastfm://La%20Ciapa%20Rusa?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:20,227 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:20,227 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:20,236 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTGElMjBDaWFwYSUyMFJ1c2E%40bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:20,236 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:20,237 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM1Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vTGElMjBDaWFwYSUyMFJ1c2E@bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:20,238 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:20,239 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:26,755 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNjQKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1BpY2NvbGElMjBCb3R0ZWdhJTIwQmFsdGF6YXI%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjk1MnMyCmlkcjAK
+2019-04-07 11:08:26,756 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:26,758 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNjQKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL1BpY2NvbGElMjBCb3R0ZWdhJTIwQmFsdGF6YXI@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHMzCjk1MnMyCmlkcjAK
+2019-04-07 11:08:26,759 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '952', 'guid': 'com.plexapp.agents.lastfm://Piccola%20Bottega%20Baltazar?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:26,760 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/952/tree'
+2019-04-07 11:08:26,771 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Piccola%20Bottega%20Baltazar?lang=en
+2019-04-07 11:08:26,771 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/4/999c36d1ec2a2ea69aca23526cb2fc57d6d1ea4.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:26,774 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=piccola+bottega+baltazar&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:26,974 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=piccola+bottega+baltazar&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:27,977 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=piccola+bottega+baltazar&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:28,158 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=piccola+bottega+baltazar&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:29,161 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '952', 'guid': 'com.plexapp.agents.lastfm://Piccola%20Bottega%20Baltazar?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:29,163 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:29,164 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:29,174 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM2NApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vUGljY29sYSUyMEJvdHRlZ2ElMjBCYWx0YXphcj9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:29,176 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:29,177 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM2NApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vUGljY29sYSUyMEJvdHRlZ2ElMjBCYWx0YXphcj9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:29,178 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:29,179 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:32,564 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNjIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0ZhYnJpemlvJTIwRGUlMjBBbmRyJUMzJUE5P2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo4ODdzMgppZHIwCg__
+2019-04-07 11:08:32,565 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:32,567 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNjIKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0ZhYnJpemlvJTIwRGUlMjBBbmRyJUMzJUE5P2xhbmc9ZW5zNApndWlkYjFzNQpmb3JjZXMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEzCnByaW1hcnlfYWdlbnRzMwo4ODdzMgppZHIwCg__
+2019-04-07 11:08:32,567 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '887', 'guid': 'com.plexapp.agents.lastfm://Fabrizio%20De%20Andr%C3%A9?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:32,568 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/887/tree'
+2019-04-07 11:08:32,685 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Fabrizio%20De%20Andr%C3%A9?lang=en
+2019-04-07 11:08:32,686 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/b/b8ef8033729b214d11695abbd6444ed9fefd3e2.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:32,689 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:32,889 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:33,892 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:34,055 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A9&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:35,058 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '887', 'guid': 'com.plexapp.agents.lastfm://Fabrizio%20De%20Andr%C3%A9?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:35,062 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:35,062 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:35,070 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM2Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vRmFicml6aW8lMjBEZSUyMEFuZHIlQzMlQTk%40bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:35,071 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:35,072 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM2Mgpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vRmFicml6aW8lMjBEZSUyMEFuZHIlQzMlQTk@bGFuZz1lbnM0Cmd1aWRyMAo_
+2019-04-07 11:08:35,073 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:35,073 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:41,409 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNzMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0lsJTIwUGFydG8lMjBkZWxsZSUyME51dm9sZSUyMFBlc2FudGk%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHM0CjEwMDRzMgppZHIwCg__
+2019-04-07 11:08:41,410 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:41,412 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNzMKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovL0lsJTIwUGFydG8lMjBkZWxsZSUyME51dm9sZSUyMFBlc2FudGk@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHM0CjEwMDRzMgppZHIwCg__
+2019-04-07 11:08:41,412 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '1004', 'guid': 'com.plexapp.agents.lastfm://Il%20Parto%20delle%20Nuvole%20Pesanti?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:41,413 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/1004/tree'
+2019-04-07 11:08:41,418 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://Il%20Parto%20delle%20Nuvole%20Pesanti?lang=en
+2019-04-07 11:08:41,418 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/3/fc6cd326e59853962ce25439d520ef45bdae9cd.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:41,420 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=il+parto+delle+nuvole+pesanti&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:41,619 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=il+parto+delle+nuvole+pesanti&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:42,623 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=il+parto+delle+nuvole+pesanti&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:42,790 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=il+parto+delle+nuvole+pesanti&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:43,794 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '1004', 'guid': 'com.plexapp.agents.lastfm://Il%20Parto%20delle%20Nuvole%20Pesanti?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:43,797 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:43,797 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:43,805 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM3Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSWwlMjBQYXJ0byUyMGRlbGxlJTIwTnV2b2xlJTIwUGVzYW50aT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:43,806 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:43,808 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM3Mwpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vSWwlMjBQYXJ0byUyMGRlbGxlJTIwTnV2b2xlJTIwUGVzYW50aT9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:43,809 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:43,809 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:43,858 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDAKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovLzIwMDg%40bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHM0CjEwMjNzMgppZHIwCg__
+2019-04-07 11:08:43,859 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:43,860 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OlNlYXJjaA__/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoyCmRpY3QKZGljdAo2CnMyCmVuczQKbGFuZ2IwczYKbWFudWFsYjBzNwpwcmltYXJ5aTAKczcKdmVyc2lvbnIxCnM2Cmt3YXJnc3M2CkFydGlzdHMxMAptZWRpYV90eXBlNQpuczgKcGFyZW50SURzNDAKY29tLnBsZXhhcHAuYWdlbnRzLmxhc3RmbTovLzIwMDg@bGFuZz1lbnM0Cmd1aWRiMXM1CmZvcmNlczI1CmNvbS5wbGV4YXBwLmFnZW50cy5sYXN0Zm1zMTMKcHJpbWFyeV9hZ2VudHM0CjEwMjNzMgppZHIwCg__
+2019-04-07 11:08:43,861 (7faa51ffb700) :  INFO (agentkit:957) - Searching for matches for {'id': '1023', 'guid': 'com.plexapp.agents.lastfm://2008?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None}
+2019-04-07 11:08:43,861 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/metadata/1023/tree'
+2019-04-07 11:08:43,873 (7faa51ffb700) :  DEBUG (model:32) - Loading model with GUID com.plexapp.agents.lastfm://2008?lang=en
+2019-04-07 11:08:43,873 (7faa51ffb700) :  DEBUG (model:234) - Deserializing from /config/Library/Application Support/Plex Media Server/Metadata/Artists/d/972dbf82ca42917aa8be243325c1b163d77764d.bundle/Contents/com.plexapp.agents.lastfm/Info.xml
+2019-04-07 11:08:43,876 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=2008&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:44,059 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=2008&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:45,061 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=2008&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:08:45,242 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=2008&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:08:46,245 (7faa51ffb700) :  CRITICAL (agentkit:1014) - Exception in the search function of agent named 'Home Theater Backdrops', called with keyword arguments {'id': '1023', 'guid': 'com.plexapp.agents.lastfm://2008?lang=en', 'force': True, 'primary_agent': 'com.plexapp.agents.lastfm', 'parentID': None} (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/agentkit.py", line 1007, in _search
+    agent.search(*f_args, **f_kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 36, in search
+    for artist_result in ArtistSearch(media.primary_metadata.title):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:08:46,246 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:08:46,247 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:46,257 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0MApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vMjAwOD9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:46,258 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2019-04-07 11:08:46,259 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/X0FnZW50S2l0OkVyYXNlTWV0YWRhdGE_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMgpzNgpBcnRpc3RzMTAKbWVkaWFfdHlwZXM0MApjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtOi8vMjAwOD9sYW5nPWVuczQKZ3VpZHIwCg__
+2019-04-07 11:08:46,260 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (111 bytes)
+2019-04-07 11:08:46,261 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2019-04-07 11:08:59,628 (7faa51ffb700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjcKRmFicml6aW8gRGUgQW5kcsOoICYgUC5GLk0uczExCmFydGlzdF9uYW1lcjAK
+2019-04-07 11:08:59,629 (7faa51ffb700) :  DEBUG (runtime:49) - Received packed state data (556 bytes)
+2019-04-07 11:08:59,631 (7faa51ffb700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.htbackdrops/messaging/function/TWVzc2FnZUtpdDpBcnRpc3RTZWFyY2g_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQp1MjcKRmFicml6aW8gRGUgQW5kcsOoICYgUC5GLk0uczExCmFydGlzdF9uYW1lcjAK
+2019-04-07 11:08:59,632 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A8+%26+p+f+m+&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:09:00,856 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A8+%26+p+f+m+&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:09:01,858 (7faa51ffb700) :  DEBUG (networking:166) - Requesting 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A8+%26+p+f+m+&default_operator=and&limit=50&aid=1,5'
+2019-04-07 11:09:02,022 (7faa51ffb700) :  DEBUG (networking:198) - Not caching 'https://htbackdrops.plex.tv/api/15f8fe4ad7760d77c85e686eefafd26f/searchXML?keywords=fabrizio+de+andr%C3%A8+%26+p+f+m+&default_operator=and&limit=50&aid=1,5' (content type 'application/octet-stream' not cacheable in Agent plug-ins)
+2019-04-07 11:09:03,026 (7faa51ffb700) :  CRITICAL (messaging:108) - Exception in _process_function_call (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/messaging.py", line 103, in _process_function_call
+    result = self._functions[name](*args, **kwargs)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/HTbackdrops.bundle/Contents/Code/__init__.py", line 19, in ArtistSearch
+    for artist in XML.ElementFromURL(SEARCH_ARTIST % String.URLEncode(artistName), sleep=1.0).xpath('//image/title/text()'):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 345, in ElementFromURL
+    ).content, encoding=encoding, max_size=max_size)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/api/parsekit.py", line 301, in ElementFromString
+    return self._core.data.xml.from_string(string, encoding = encoding)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-782228f99/Framework.bundle/Contents/Resources/Versions/2/Python/Framework/components/data.py", line 162, in from_string
+    return etree.fromstring(markup, parser=(xml_parser if remove_blank_text else None))
+  File "lxml.etree.pyx", line 2743, in lxml.etree.fromstring (lxml-2.3/src/lxml/lxml.etree.c:52665)
+  File "parser.pxi", line 1573, in lxml.etree._parseMemoryDocument (lxml-2.3/src/lxml/lxml.etree.c:79932)
+  File "parser.pxi", line 1452, in lxml.etree._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:78774)
+  File "parser.pxi", line 960, in lxml.etree._BaseParser._parseDoc (lxml-2.3/src/lxml/lxml.etree.c:75389)
+  File "parser.pxi", line 564, in lxml.etree._ParserContext._handleParseResultDoc (lxml-2.3/src/lxml/lxml.etree.c:71739)
+  File "parser.pxi", line 645, in lxml.etree._handleParseResult (lxml-2.3/src/lxml/lxml.etree.c:72614)
+  File "parser.pxi", line 585, in lxml.etree._raiseParseError (lxml-2.3/src/lxml/lxml.etree.c:71955)
+XMLSyntaxError: Document is empty, line 1, column 1
+
+2019-04-07 11:09:03,029 (7faa51ffb700) :  DEBUG (runtime:88) - Sending packed state data (587 bytes)
+2019-04-07 11:09:03,029 (7faa51ffb700) :  DEBUG (runtime:924) - Response: [404] NoneType, 0 bytes

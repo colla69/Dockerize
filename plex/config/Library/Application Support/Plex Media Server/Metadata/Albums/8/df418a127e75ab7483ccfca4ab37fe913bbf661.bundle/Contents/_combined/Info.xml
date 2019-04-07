@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <originally_available_at>2003-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://756" path="tracks/19446185f3bc70af106b4d770759341e7668fa93">
+      <lyrics/>
+      <moods/>
+      <rating_count>34619</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://754" path="tracks/731156c8db461b969e6bb84035b4b4a8d4e16e58">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-6356880&amp;artist=In%20Flames&amp;album=Trigger%20%5BEP%5D&amp;track=Land%20of%20Confusion" remote="com.plexapp.agents.lyricfind_c38bf8a28ca0f5e250b04a30bbf232817365959f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>368935</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://755" path="tracks/7b056eb7687df907636c5d9bddb8f5c431be9e78">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-6356881&amp;artist=In%20Flames&amp;album=Trigger%20%5BEP%5D&amp;track=Cloud%20Connected%20%5BClub%20Connected%20Remix%5D" remote="com.plexapp.agents.lyricfind_268aaad8bd9db6e1fe1c2130e36b861bbd2b70fc" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>60404</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://753" path="tracks/14b4ccb74cbed418dcab362b56cb67865d874f28">
+      <lyrics/>
+      <moods/>
+      <rating_count>139525</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Cantautore</item>
+  </genres>
+  <originally_available_at>1973-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://1219" path="tracks/c8659d9193387036f3e7754898b7b562e67542ee">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545084&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Storia%20di%20un%20impiegato&amp;track=La%20%20Canzone%20del%20Padre" remote="com.plexapp.agents.lyricfind_0e8f7189590fe86cbd8d17698a20ebb10dbf5dba" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>37054</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1218" path="tracks/48c02b95def29221992db8b8c031425f6ac62c88">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1213" path="tracks/03cd8c7d4ef21e68c37687c4030ee13fa4a731a5">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545079&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Storia%20di%20un%20impiegato&amp;track=Introduzione" remote="com.plexapp.agents.lyricfind_d714bd24cf41e3cabcfb9b0e2aa426ca3ffb925b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>37020</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1215" path="tracks/afbc5a769d7798f584d80cfb36c5d096c0d4a7c7">
+      <lyrics/>
+      <moods/>
+      <rating_count>43818</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1214" path="tracks/e428e9844fe4daa53904d7610305958065de46f9">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1217" path="tracks/75ffd106eb0776dbcc45612f25e37ec40a7ec789">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1216" path="tracks/94cfacdd39d41df72644313229f6985c065cbb35">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545082&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Storia%20di%20un%20impiegato&amp;track=Al%20Ballo%20Mascherato" remote="com.plexapp.agents.lyricfind_024b11380232dc00e5a2852d08c7df864fd8e8b3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>40075</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1220" path="tracks/f2047478ca2b33ee7d26e0dd46d4067381022267">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545085&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Storia%20di%20un%20impiegato&amp;track=Il%20%20Bombarolo" remote="com.plexapp.agents.lyricfind_e564e538dcc7a25b32aacd1ac7a05e35864cd89a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>79759</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1221" path="tracks/d98f9c2f4eb3137ea28109d110a9aba6d1c6ec1e">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1222" path="tracks/86a8c142f827d4e5520a438396f1169c46ba7e3e">
+      <lyrics/>
+      <moods/>
+      <rating_count>49438</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

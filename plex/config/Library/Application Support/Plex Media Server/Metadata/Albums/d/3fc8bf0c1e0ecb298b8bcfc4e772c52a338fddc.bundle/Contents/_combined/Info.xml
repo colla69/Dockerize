@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <originally_available_at>2006-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="75320d07be3b05ab21a473acefd92f99" media="com.plexapp.agents.localmedia_3033bc15e9ed9c5fce9e1a823185cf61ff36a2a7" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="627f26c6998058bd117893fab0fcf325" media="com.plexapp.agents.localmedia_be687a60052a5d0a033e8308895215ca0aa56f72" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://727" path="tracks/002a79aedabe0b0e067684ad8d26a464fb0ab396">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645490&amp;lrc=1&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Leeches" remote="com.plexapp.agents.lyricfind_5098cc8a4a6f1b3df8e489f18d804d892ecb899c" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645490&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Leeches" remote="com.plexapp.agents.lyricfind_45d8c20ae6d53b0c1422d66ad0f6e21ab1c9e5a7" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1788555</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://726" path="tracks/5c43f5b87716bdad12651092ce04f90c192d7072">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645489&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Take%20This%20Life" remote="com.plexapp.agents.lyricfind_16e208a98232dc5116360a0d34e7e42572db6c48" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3321973</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://738" path="tracks/83fa02d624926b52bee8dc61d35aa83a1f31fbdf">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645501&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Your%20Bedtime%20Story%20Is%20Scaring%20Everyone" remote="com.plexapp.agents.lyricfind_b6302e1694cd67edc2fb717897fd6f0b117247cf" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>954492</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://729" path="tracks/5a579a2d90810bac8c5b86fcfc5094b46abdca17">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645492&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Dead%20End" remote="com.plexapp.agents.lyricfind_f355fc9a10276e4a6ea85a4c2d591788b521c9b2" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2027878</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://728" path="tracks/bf827b961639ed137f5f1635accc4ba01cd26e12">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645491&amp;lrc=1&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Reflect%20the%20Storm" remote="com.plexapp.agents.lyricfind_b4e577babad7aab59a30bf51a150cf3e1c9ca513" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645491&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Reflect%20the%20Storm" remote="com.plexapp.agents.lyricfind_55cec4902053dcb8d07956ff9a677c1b21d5125f" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1895698</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://730" path="tracks/5af35c5b06a95339c30a6ff546e03e6032704c7e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645493&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Scream" remote="com.plexapp.agents.lyricfind_66b37071a7be59f65dd34a6148d05429f8746fe5" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1425351</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://731" path="tracks/1c4319b856eec3c5587e2a534e76bec41ecd7b5f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19069272&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Come%20Clarity" remote="com.plexapp.agents.lyricfind_95957ad42c01249998a0cccd7b920f7723fd0f85" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3511568</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://732" path="tracks/d232921288e33405c8425d7c72ba9d74efc0135b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645495&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Vacuum" remote="com.plexapp.agents.lyricfind_fec282807e7ad4041379859b7829cb780b5393ae" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1339653</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://733" path="tracks/133b0e1cc7bd746929be2410cd7b27b5a95be68f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645496&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Pacing%20Death%27s%20Trail" remote="com.plexapp.agents.lyricfind_43bffc58ddc90afabc7850c1ce9ed983caa9ca44" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>513925</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://734" path="tracks/2e10ea62d05575fc3311da69bb5d46435db93258">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645497&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Crawl%20Through%20Knives" remote="com.plexapp.agents.lyricfind_5004df7b46a037e268748c705130ee0fd70403a7" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2080144</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://735" path="tracks/8af9b66764c1bad66b4a7a54cb017f41fddbdbb1">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645498&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Versus%20Terminus" remote="com.plexapp.agents.lyricfind_1ddc25db6797f5357925919522bbcae72fd8c0db" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1217366</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://736" path="tracks/d40dec90514b49e891620ae0f51f624e4503d974">
+      <lyrics/>
+      <moods/>
+      <rating_count>1149915</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://737" path="tracks/a8efa4bea6bab12749c8ed53cf96cddf2060e5ea">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8645500&amp;artist=In%20Flames&amp;album=Come%20Clarity&amp;track=Vanishing%20Light" remote="com.plexapp.agents.lyricfind_01ed7c4bd3a44ff3fa06b0641e99eecb680ef586" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1165398</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

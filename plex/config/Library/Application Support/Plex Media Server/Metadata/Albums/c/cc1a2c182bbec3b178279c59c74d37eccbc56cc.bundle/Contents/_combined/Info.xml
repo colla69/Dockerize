@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://986" path="tracks/5f007f01db44c61e527e96b56887474a545caa4b">
+      <lyrics/>
+      <moods/>
+      <rating_count>39006</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://983" path="tracks/7a6c68901a9862f678fea3009493a0328a9c0426">
+      <lyrics/>
+      <moods/>
+      <rating_count>47671</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://994" path="tracks/a88a6c9c88bf877ef63f1ba5ae7b0d1f6d3f2c46">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545057&amp;lrc=1&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Volta%20la%20Carta" remote="com.plexapp.agents.lyricfind_cafaf833808a45fcf1101f8f81178fd99bea596c" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545057&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Volta%20la%20Carta" remote="com.plexapp.agents.lyricfind_0412506970cdc8100b62598f885f6f85558b4aeb" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>84269</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://987" path="tracks/bd80b5121f171163b427e89ea27b8f8656e0c939">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1001" path="tracks/ef5d9d7686cf9015e2e00b232de876ed1059e684">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545027&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Il%20%20Testamento%20di%20Tito" remote="com.plexapp.agents.lyricfind_c7ddbf872664e6f740bbb8264fe0ea60c6fd42c8" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>104855</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://998" path="tracks/5f942457c90708057835fad638d6a2b6c6490525">
+      <lyrics/>
+      <moods/>
+      <rating_count>56825</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://999" path="tracks/bc69360e44bc08f11b14617721519bfe32e25b7a">
+      <lyrics/>
+      <moods/>
+      <rating_count>64222</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://989" path="tracks/fbe235ff7c8287c0076bfc1153a6126d4e915440">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545059&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Andrea" remote="com.plexapp.agents.lyricfind_d3a333d4112ce0e2eb287aa8f9de158eea7fef3d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>97204</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://988" path="tracks/767846357fb216d09a758ea6366b8d478ca77d44">
+      <lyrics/>
+      <moods/>
+      <rating_count>19957</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://985" path="tracks/fff1f5098fb397addac40131ae5a6358983b217e">
+      <lyrics/>
+      <moods/>
+      <rating_count>27257</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://984" path="tracks/758436221d2a41fd16b45aa7f4fa0267c01ccab5">
+      <lyrics/>
+      <moods/>
+      <rating_count>151526</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://990" path="tracks/0d69ceb8bfaa36febe0d17cb91ef18e46390ec77">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://991" path="tracks/b2535bc051e6255b40eb9bdb628969e715d52549">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-12171903&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Bocca%20di%20Rosa" remote="com.plexapp.agents.lyricfind_8a7b246e87642c24aeb343ffbcb4fadea4a18ee5" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>153041</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://992" path="tracks/530840da9ac2778d02512ab534edf2884ad28020">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545058&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Coda%20di%20Lupo" remote="com.plexapp.agents.lyricfind_9117585bc7b534a972550fd3a4c8782930d34583" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>45023</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://993" path="tracks/758b46b8efbe95b6f283107ef05f0ef933a43a4a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13438870&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Il%20Pescatore" remote="com.plexapp.agents.lyricfind_a52dfb74b783bf81e4600adc22541693fe61db4f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>108040</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1000" path="tracks/e0eb6e634768b2d8d9ebebe041298ffe145e9af1">
+      <lyrics/>
+      <moods/>
+      <rating_count>30139</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://995" path="tracks/d0b5e5d7eb2786b70e50cfa16508b334792614f6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-6118587&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Un%20%20Giudice" remote="com.plexapp.agents.lyricfind_4b36dbf2629abc9bc5b31e780bd6507f959f4be0" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>106091</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://996" path="tracks/048f229bd7a30c0ddd29279bf0da7b837521f21e">
+      <lyrics/>
+      <moods/>
+      <rating_count>7275</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://997" path="tracks/da75e600aa71563ddb887bcfaa622a07a55e081a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-12801722&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=Guerra%2C%20Dio%2C%20Uomini%2C%20Amore&amp;track=Il%20Re%20Fa%20Rullare%20i%20Tamburi" remote="com.plexapp.agents.lyricfind_84d1bec8f150aa70b62710cd46a7441bd4d67699" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>17793</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

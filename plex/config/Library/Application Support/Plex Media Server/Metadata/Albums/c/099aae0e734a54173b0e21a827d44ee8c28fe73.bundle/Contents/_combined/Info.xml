@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <originally_available_at>1979-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/de14087bb56fe37cdb42d030b0bf9851.png" media="com.plexapp.agents.lastfm_43e6e00e762d20a7565e63230310931b2517a44b" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Non siamo mica gli americani!</title>
+  <tracks>
+    <item guid="local://396" path="tracks/00ea4e2227f1ceea7347bc8007d8bc726a1c345f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16585050&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=Io%20Non%20So%20Pi%F9%20Cosa%20Fare" remote="com.plexapp.agents.lyricfind_fa5282e705e8b33918d6bb7e965d43be47941b7e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>6658</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://397" path="tracks/bcb73ef589e3d98149a9fa52435363bc2364cd06">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19056650&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=Fegato%2C%20Fegato%20Spappolato" remote="com.plexapp.agents.lyricfind_4a3c3913fb14d423f7ca16385bf04ee719363434" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>14003</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://402" path="tracks/29cd5ad35881e886334eb5c8c51422e1c4c5b581">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16585057&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=Quindici%20Anni%20Fa" remote="com.plexapp.agents.lyricfind_1c25c494f6cc5a8b5b04401b00b858678f75dbae" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4694</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://403" path="tracks/6d446175133dab22c4765939c7d0fd2da48a5344">
+      <lyrics/>
+      <moods/>
+      <rating_count>1991</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://400" path="tracks/978d6421e050d3a95c54fa89af7149c38ab5faed">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16585055&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=La%20Strega%20%28La%20Diva%20del%20Sabato%20Sera%29" remote="com.plexapp.agents.lyricfind_99c073523a59d6f11a05debe16f7c86305d97cef" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1835</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://401" path="tracks/d465e08eef3368c824835a05aa03737250730afd">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_dc2ad925032e9ba1bd3d062b93f8eafe629e95dd" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_fa3c2c99432a51f9d80a6e05d39bdf1ad0c1e782" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>102962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://398" path="tracks/77a8fc4007b97636305ed09e752ece96b11b322f">
+      <lyrics/>
+      <moods/>
+      <rating_count>5956</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://399" path="tracks/0e14a6c6863f478d33c1b688bd3dfeef54f94269">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16585054&amp;artist=Vasco%20Rossi&amp;album=Non%20Siamo%20Mica%20Gli%20Americani&amp;track=%28Per%20Quello%20Che%20Ho%20Da%20Fare%29%20Faccio%20il%20Militare" remote="com.plexapp.agents.lyricfind_47cecf08feeac4e50fe7a314adba6ff2f5776f86" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4902</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

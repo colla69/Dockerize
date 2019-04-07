@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <originally_available_at>1984-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/096e3d0ada6a4df9a2f3f9501b70c31e.png" media="com.plexapp.agents.lastfm_1f9ed51d89d3e9f5b0c4099381bdb980cda43d7b" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Va Bene, Va Bene Così</title>
+  <tracks>
+    <item guid="local://334" path="tracks/64a2cfc4222b3e85623e1db7b4d7ffc0d5734aaa">
+      <lyrics/>
+      <moods/>
+      <rating_count>54146</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://335" path="tracks/00cd2a877f2a5cc0a6a39133680636ad54fdef66">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_258d575ef1cd4591fbe20205e436053d00333a31" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_0b389b29b51d49d200ac8a5b29a2b7161101e69e" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>102962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://336" path="tracks/10b87ea0b60db7d0bf53551ae3112179827789b4">
+      <lyrics/>
+      <moods/>
+      <rating_count>33793</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://337" path="tracks/6ef499155ff3bde081e0b838373c698d5775a7be">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435865&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Siamo%20Solo%20Noi" remote="com.plexapp.agents.lyricfind_3cc199818a1a72422b6be329735fc3eac08a555e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>44521</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://330" path="tracks/62553a610a6c53c58fd983effcd480187dd3b7be">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://331" path="tracks/8c4d29398033b64a4ed4470740db2f12f3e1aafc">
+      <lyrics/>
+      <moods/>
+      <rating_count>14652</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://332" path="tracks/41b670145205796e836756d3caacc90ac4382a1d">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19056650&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Fegato%2C%20Fegato%20Spappolato" remote="com.plexapp.agents.lyricfind_383da42ceeb228ad132f26175c16085b53989490" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>14003</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://333" path="tracks/74c4100cf4ae9b1b6ebbf664ab2855b63b3bf8fc">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_3a9d60977687899666308e5217e2d76af108a8ea" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_08896e14a4f9cf9a8ca691bd53bdc9127c24fb27" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62805</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://329" path="tracks/4158aa1aed7653aa8a734bdbe297f70d3785d0bb">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-4331694&amp;artist=Vasco%20Rossi&amp;album=Va%20Bene%2C%20Va%20Bene%20Cos%EC&amp;track=Va%20Bene%2C%20Va%20Bene%20Cosi%27" remote="com.plexapp.agents.lyricfind_c308e34fdfddac6fa06b4f5ae5f5c0fb6b614982" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>9341</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="null">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="9ba97b2c8d8ea1e6af89efe594a39fa0" media="d28d94e0fb2b721fc8b7adc0b29433e550ad7702"/>
+    <item external="True" url="b75553674dc208b054e873c514274219" media="eb9a3b656312a5b7e754d77b30857836f43bdad2"/>
+  </posters>
+  <originally_available_at>1993-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <originally_available_at>2003-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="ef43cc90137c085cbaa235b384938ced" media="com.plexapp.agents.localmedia_c164e274afb715e0f96ffe2ddb5856fc9429ba0f" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://521" path="tracks/16ee272ac291a02c8219132899a99fe2f3143809">
+      <lyrics/>
+      <moods/>
+      <rating_count>216177</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://520" path="tracks/cf4b7b1cf7b2d163e609031d0aa2c426686f673d">
+      <lyrics/>
+      <moods/>
+      <rating_count>239668</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://522" path="tracks/95e05270e72633b607c2ea2c0d6706dc11fe50a3">
+      <lyrics/>
+      <moods/>
+      <rating_count>228809</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://518" path="tracks/680fb03eac6a211b68375f4efae6f1e27d3e3799">
+      <lyrics/>
+      <moods/>
+      <rating_count>265532</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://519" path="tracks/6b966ec5501cf79c0d07f3889c344f7a4b1d604e">
+      <lyrics/>
+      <moods/>
+      <rating_count>961147</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://515" path="tracks/42cf7a628c9b4f58e003ffd29f758ab5e04cbfbd">
+      <lyrics/>
+      <moods/>
+      <rating_count>28445</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://516" path="tracks/8a0ab388489fc8fa76cde3fb895d8ad9c28fb247">
+      <lyrics/>
+      <moods/>
+      <rating_count>250262</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://517" path="tracks/5ed550e4ef81ce5e98957f2b25e25f62680742ec">
+      <lyrics/>
+      <moods/>
+      <rating_count>321154</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

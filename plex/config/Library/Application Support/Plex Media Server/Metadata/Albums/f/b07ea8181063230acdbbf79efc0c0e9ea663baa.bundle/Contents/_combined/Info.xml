@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Other</item>
+    <item index="1">Metal</item>
+  </genres>
+  <originally_available_at>1997-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="24bb67f033a90c855457ef17b157cdcd" media="com.plexapp.agents.localmedia_d23fbcca8335320da4fb3530faeaa3085298977f" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://815" path="tracks/8019f2144a7aca6c853efbd052670b92b59f4fd8">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078905&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Jotun" remote="com.plexapp.agents.lyricfind_40e5d5c9b1b794063d598bd5af17b7e8bb44eb7d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1004888</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://820" path="tracks/9681401b7d8f5686070a93c0dff938ee2093a6da">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078910&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Jester%20Script%20Transfigured" remote="com.plexapp.agents.lyricfind_23e9ea68779ca046aece8fb9e889822e1d9dc4c7" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>592729</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://817" path="tracks/aef67fb0287bc3f019cd2c7096e783950ce742df">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2661116&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Gyroscope" remote="com.plexapp.agents.lyricfind_34bfedf20e789d3f23aca8235e8160375e4be228" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1204401</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://816" path="tracks/05142421a74b4c141c54d58d2738579bb1613da7">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078906&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Food%20for%20the%20Gods" remote="com.plexapp.agents.lyricfind_efb4233f4652da4511241b7fd35b5f2142fa6c06" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>778858</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://824" path="tracks/e8679f0b363f21a8b298be27a30472851a5cde01">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078914&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Everything%20Counts" remote="com.plexapp.agents.lyricfind_83252b66c6bab52e051921d2307a75e36052db1a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>539622</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://825" path="tracks/9f6968c4479f006196c13a41ce5e5aa859e15106">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-22439123&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Whoracle" remote="com.plexapp.agents.lyricfind_9dc495d22a5e726de457d4e4a6a9b0f53078fffa" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>713816</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://826" path="tracks/51ae89b381163fa337d82e14f05849327efa300e">
+      <lyrics/>
+      <moods/>
+      <rating_count>34172</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://827" path="tracks/f393d8ef5fb9c9f4416dd5c0f0aa0ecb14129e1f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-12112372&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Strong%20and%20Smart" remote="com.plexapp.agents.lyricfind_de3213e043e59fbbbad14accf509bd9642147f2c" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>16699</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://821" path="tracks/5bcba2c304364277057e969e5d33a256555f4e68">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078911&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Morphing%20Into%20Primal" remote="com.plexapp.agents.lyricfind_54b9479f708e827e8839276896ae9444990e0886" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>509623</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://819" path="tracks/15aefa1a599c6bf56736b41866957aea2cde714b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078909&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=The%20Hive" remote="com.plexapp.agents.lyricfind_5a5ee3804f481b0dc2b3593245fd9876bff8ebde" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>620629</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://822" path="tracks/f291a9f3a7d2a1e0dd2e0ac3ef8743ed635ad395">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078912&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Worlds%20Within%20the%20Margin" remote="com.plexapp.agents.lyricfind_0e2557386ad1cdb4b37b7e4fa81ef738e2baf472" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>502526</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://818" path="tracks/fed8570f4ecf263589a27be87a979956f9857e52">
+      <lyrics/>
+      <moods/>
+      <rating_count>19410</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://823" path="tracks/930e79d6e4ca6abbdb0c58e9ce9666a8a98000d9">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-2078913&amp;artist=In%20Flames&amp;album=Whoracle&amp;track=Episode%20666" remote="com.plexapp.agents.lyricfind_f92c5aed4a3c5a8ea3ce3ef743d19126e005a29d" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1055027</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

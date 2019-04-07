@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Soundtrack</item>
+  </genres>
+  <originally_available_at>2001-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="7dd2dad5112f123b417433ef4ea4fd43" media="com.plexapp.agents.localmedia_a133b036dd18811340e08415b25622b8dcec84b3" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/800884b18389422bae0443b6f669d903.png" media="com.plexapp.agents.lastfm_1e6b35f72c297c66bcd8ba054c72afac0f9e7a97" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Fuori dal mondo</title>
+  <tracks>
+    <item guid="local://587" path="tracks/ef638c9370693f317de075c32249c0d9ff1910c2">
+      <lyrics/>
+      <moods/>
+      <rating_count>21489</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://595" path="tracks/3ffd63fe20e68486cc50a18b1572fda79d17ca67">
+      <lyrics/>
+      <moods/>
+      <rating_count>25074</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://596" path="tracks/f293643d7366b22ce3fcafe09bbb0f61093b91eb">
+      <lyrics/>
+      <moods/>
+      <rating_count>53195</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://597" path="tracks/1be0fee1c7ae0ec6b121e9ad98b05656024b5057">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://590" path="tracks/1456a2e93d7fd9765bfc0da7d02471ec5a4e76f0">
+      <lyrics/>
+      <moods/>
+      <rating_count>27659</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://591" path="tracks/63c8bba31258d857ddf1c80452a8d70723c706a5">
+      <lyrics/>
+      <moods/>
+      <rating_count>15275</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://592" path="tracks/d89d275f99127be673a0a5c130b8f6c157341739">
+      <lyrics/>
+      <moods/>
+      <rating_count>19050</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://586" path="tracks/e0bdaf22adb1847880922e1813dfd32fecefff7d">
+      <lyrics/>
+      <moods/>
+      <rating_count>277231</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://593" path="tracks/9a495ba4262a1f2193793c41f35bba184b8c8ccb">
+      <lyrics/>
+      <moods/>
+      <rating_count>196552</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://598" path="tracks/6f22b4aee411814352193ee17e04cd08719bd4cf">
+      <lyrics/>
+      <moods/>
+      <rating_count>22925</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://589" path="tracks/b031a8749f1cf80ab128ea90ee5be7feff0eab13">
+      <lyrics/>
+      <moods/>
+      <rating_count>18173</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://588" path="tracks/6251327c5eef9af0d75f173b053daf10648622bd">
+      <lyrics/>
+      <moods/>
+      <rating_count>336449</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://594" path="tracks/40c0bb3fd5a0cf92b9e4a2e06a6258936aa74510">
+      <lyrics/>
+      <moods/>
+      <rating_count>81502</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

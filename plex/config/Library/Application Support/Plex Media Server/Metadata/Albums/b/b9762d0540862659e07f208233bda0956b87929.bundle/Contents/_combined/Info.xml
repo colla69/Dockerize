@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <originally_available_at>1982-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/fa4c38cee40566c3fb0cfac8676d8bea.png" media="com.plexapp.agents.lastfm_be282dc67ec127867ccb28baacd8e89431b689b3" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Vado al massimo</title>
+  <tracks>
+    <item guid="local://327" path="tracks/05e04d26f3a97f991e7b0677191a7a0bf531542d">
+      <lyrics/>
+      <moods/>
+      <rating_count>6196</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://326" path="tracks/0424f862e93ccbd1c350b50a414b968425d0d56c">
+      <lyrics/>
+      <moods/>
+      <rating_count>22592</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://325" path="tracks/b03e3086baabe6fc7c1f07bb11dee2daa38242d2">
+      <lyrics/>
+      <moods/>
+      <rating_count>23046</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://324" path="tracks/b2e0a119f220784531d03830493bcfdb00dc514b">
+      <lyrics/>
+      <moods/>
+      <rating_count>2202</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://323" path="tracks/00866ce773e7890455196527266d73b845e045a9">
+      <lyrics/>
+      <moods/>
+      <rating_count>5248</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://322" path="tracks/42242c5a4f37d7b80da07ae9d332f8f4fc9eb806">
+      <lyrics/>
+      <moods/>
+      <rating_count>18589</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://321" path="tracks/3b4a3906116e6d58d151fb0a0ff91febbf6ae7f6">
+      <lyrics/>
+      <moods/>
+      <rating_count>54146</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://320" path="tracks/73f47732d9bd5980fd34c9850f4a42e0bc7a95cc">
+      <lyrics/>
+      <moods/>
+      <rating_count>5554</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://319" path="tracks/4bcfdb10a1b842548208ba6ebd93e01d9066e847">
+      <lyrics/>
+      <moods/>
+      <rating_count>6038</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

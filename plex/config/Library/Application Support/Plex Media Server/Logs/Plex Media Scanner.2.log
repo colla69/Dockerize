@@ -1,0 +1,17 @@
+Apr 07, 2019 11:01:34.875 [0x7f3f106df700] INFO - Plex Media Scanner v1.15.2.793-782228f99 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Apr 07, 2019 11:01:34.876 [0x7f3f106df700] INFO - Linux version: 4.15.0-47-generic, language: en-US
+Apr 07, 2019 11:01:34.876 [0x7f3f106df700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 11:01:34.876 [0x7f3f106df700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --scan --refresh --section 1
+Apr 07, 2019 11:01:34.881 [0x7f3f18c46b80] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.26.0, threadsafe=1
+Apr 07, 2019 11:01:35.054 [0x7f3f18c46b80] DEBUG - Scanning Music using en(Plex Music Scanner) with 0 current media items and 1 section locations in the database...
+Apr 07, 2019 11:01:35.054 [0x7f3f0fa57700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/cullTimeline?librarySectionID=1&sinceTime=1554633695
+Apr 07, 2019 11:01:35.057 [0x7f3f0fa57700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/cullTimeline?librarySectionID=1&sinceTime=1554633695
+Apr 07, 2019 11:01:35.297 [0x7f3f18c46b80] DEBUG - Performing a scan with 'Plex Music Scanner' (language: en virtual: 0).
+Apr 07, 2019 11:01:35.297 [0x7f3f18c46b80] DEBUG -   * Scanning /music
+Apr 07, 2019 11:01:35.297 [0x7f3f18c46b80] DEBUG -   * Marking media not available in /music
+Apr 07, 2019 11:01:35.297 [0x7f3f18c46b80] DEBUG -   * Taking 0 items out of the map (which has 0 items) for being unavailable.
+Apr 07, 2019 11:01:35.298 [0x7f3f18c46b80] DEBUG -   * Taking 0 directories out of the map (which has 0 dirs) for being unavailable.
+Apr 07, 2019 11:01:35.301 [0x7f3f18c46b80] DEBUG - Removing 0 media items that were left.
+Apr 07, 2019 11:01:35.301 [0x7f3f18c46b80] DEBUG - Removing 0 directories that were left.
+Apr 07, 2019 11:01:35.308 [0x7f3f18c46b80] DEBUG - Refreshing section 1 of type: 8
+Apr 07, 2019 11:01:35.318 [0x7f3f0d47f700] DEBUG - Refreshing 0 IDs.

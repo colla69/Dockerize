@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Rock</item>
+  </genres>
+  <originally_available_at>2002-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Tracks - Cd 1</title>
+  <tracks>
+    <item guid="local://196" path="tracks/dd86ffe8ef498e70a51432efef8fcd9bb2dc1c92">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_319726782eb70e4f9b3cd9a0243c16069f2b08e0" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_9282bcf3f9ffafa118d0d5a4c3f27e933484b025" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>102962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://197" path="tracks/a7c2fe53015f980991f127832a63cf5c36b89c95">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-6110702&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Generale" remote="com.plexapp.agents.lyricfind_fb20c877fc4bf0c5997574eaa386d62b1fc3fb99" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>12335</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://200" path="tracks/a62d421879a0330874a3c829d860f052eb598938">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298823&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=...Stupendo" remote="com.plexapp.agents.lyricfind_86e73c4002290cc0c62ea2db93e85737f677772c" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>14388</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://201" path="tracks/4d11d0d8df5ab40a031c2ad4437e1f5584bd7934">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764338&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=C%27%C8%20Chi%20Dice%20No" remote="com.plexapp.agents.lyricfind_69afd528da16fd6d1c19dc44534ca1e35e4865fe" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>28818</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://202" path="tracks/80985dc90a16868d4135951aa25b37fb102081a3">
+      <lyrics/>
+      <moods/>
+      <rating_count>21870</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://203" path="tracks/8e9bde49812b6f162502fe555a46bf954fa59364">
+      <lyrics/>
+      <moods/>
+      <rating_count>11718</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://204" path="tracks/b619934a60a9f69d09b2a208450f84a44e65aa88">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_6cb6cd9e059377b1ec1c394aebe03ce2cbfdaad8" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009459&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Liberi...%20Liberi" remote="com.plexapp.agents.lyricfind_cd3d23f2e45f2dfd31d37815dd7b9fb12432b897" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3477</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://205" path="tracks/5a937b008ce6bafdc298e895e9ca79101fd667dc">
+      <lyrics/>
+      <moods/>
+      <rating_count>43712</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://206" path="tracks/36d255a745fa48a71fde0b10326ae9e2befe4db8">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5298819&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Vivere" remote="com.plexapp.agents.lyricfind_d209681a515db250957c321639025cda32a325c3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>55457</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://207" path="tracks/237fcc8979a6155379a7eb67126cdcee45873d81">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16260142&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=La%20Fine%20Del%20Millennio" remote="com.plexapp.agents.lyricfind_e18d3bd914881d732ada4ad1aec9fe51981fd7be" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4748</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://198" path="tracks/dabb23c6531391d81a175b82c39db8776a27d840">
+      <lyrics/>
+      <moods/>
+      <rating_count>10371</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://199" path="tracks/ae1b184a2d86279204e5d562040c1ff1376e09ef">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3418512&amp;artist=Vasco%20Rossi&amp;album=Tracks%20Cd%201&amp;track=Io%20No" remote="com.plexapp.agents.lyricfind_4b0f80a7b5e758d749dc43b82fb980ac802674c8" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>20112</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

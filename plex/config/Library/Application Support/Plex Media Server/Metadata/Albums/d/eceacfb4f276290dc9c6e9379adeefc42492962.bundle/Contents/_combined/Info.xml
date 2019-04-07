@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <originally_available_at>2000-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://789" path="tracks/8fd15b8fd668e67f0661b2fd6294dd4eb33ee804">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896880&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Bullet%20Ride" remote="com.plexapp.agents.lyricfind_3a51be9b15b890990df9782dc5eb110c3024a1d9" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1572568</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://797" path="tracks/309320df09000d2ee29400eec2e238165ab0a8ce">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896888&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Swim" remote="com.plexapp.agents.lyricfind_a2e6ba04c8f12a502207801724980178b63880d5" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1133229</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://798" path="tracks/a936d77608b902cf790ec83c4c82bbf839b30924">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896889&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Suburban%20Me" remote="com.plexapp.agents.lyricfind_a48610992a399b88180aef511abe9e85e8346952" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>995672</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://799" path="tracks/4ef208412da61759a19ce1828baff8e181b3cbe5">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896890&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Another%20Day%20in%20Quicksand" remote="com.plexapp.agents.lyricfind_33e93408ee4b04cb59238db02a857d6b5fa7cf3f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>847133</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://792" path="tracks/c870b1ecf5dbe481f4b43e97fbfe8edcb951e078">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896883&amp;artist=In%20Flames&amp;album=Clayman&amp;track=...As%20the%20Future%20Repeats%20Today" remote="com.plexapp.agents.lyricfind_04cfc21bfacd3478f847a8220c26b4d97fcbd690" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>937185</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://793" path="tracks/903dc1bc8e5187fc62a226eaf4ee5e2e73e47436">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896884&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Square%20Nothing" remote="com.plexapp.agents.lyricfind_650004abb53c827660820c96096b16f15159afba" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1037078</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://800" path="tracks/86ae4cf46c2fbc94eab9725c556ac1ec54e7fb37">
+      <lyrics/>
+      <moods/>
+      <rating_count>108413</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://791" path="tracks/c15c4f47b4926f9fc35ec8c0fb25790b305b3b4b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896882&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Only%20for%20the%20Weak" remote="com.plexapp.agents.lyricfind_c60d23fb9dd1fd1abb4869abc2c79b4ad7f20037" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2991021</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://796" path="tracks/e958ce8641f26408ce3631479a0600684cc39f71">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896887&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Brush%20the%20Dust%20Away" remote="com.plexapp.agents.lyricfind_21843d77796d31a890e2ff16fad0d1d18f930508" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>877658</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://790" path="tracks/1be0db1e973ebc2b0164d760d3ce33cf87460a23">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896881&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Pinball%20Map" remote="com.plexapp.agents.lyricfind_4655fd25e59715534c4cade8d22113074d48292b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1792149</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://794" path="tracks/33806bafc495d320ee70025a1af2007c3fcdadea">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896885&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Clay%20Man" remote="com.plexapp.agents.lyricfind_a90889bec176b834047513ff558a22a34eaf8543" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>530334</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://795" path="tracks/d89807035520f30728383eecebdbb893e118502d">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-3896886&amp;artist=In%20Flames&amp;album=Clayman&amp;track=Satellites%20and%20Astronauts" remote="com.plexapp.agents.lyricfind_c280343fd6d36cc3c9d6715bb53c01d0c1064731" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>9246</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <originally_available_at>2002-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="68f11029dffc042650789bb6c3c20563" media="com.plexapp.agents.localmedia_cb86c127cbc8383d70650337a4e0296634fcd527" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="05497056ef97215a15896a30b0a5831d" media="com.plexapp.agents.localmedia_7a1d12adf35eff5756dd7b6c199014cc878b2cb3" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://758" path="tracks/41a0ba585fa6196ffe4f0c7f3b6b00d1ef81672c">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755769&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Reroute%20to%20Remain" remote="com.plexapp.agents.lyricfind_c05b9744f437ae272da04d3b6a1efb26f0a71ea4" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1250861</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://759" path="tracks/236775e1443e0700447b0c86dbf5121cc42f1023">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755770&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=System" remote="com.plexapp.agents.lyricfind_3b99b5637d86a33aab4df790cd9db68952a8bce4" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1353444</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://767" path="tracks/2e00628f69ba325957d6bb25a6e6ec17cfd7120e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755778&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Dismiss%20the%20Cynics" remote="com.plexapp.agents.lyricfind_1d1954908c52dbf3614b854d13de73c9c32d72c1" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>840154</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://766" path="tracks/257d0786fced3964e525c6b2d7decb9e159d3ee2">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755777&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Minus" remote="com.plexapp.agents.lyricfind_7b3f69ca552260713c5f37a081eea183427840f7" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>909710</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://765" path="tracks/c429d58dad6a88aaa06c1e98d161d2fede516581">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755776&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Egonomic" remote="com.plexapp.agents.lyricfind_96357e51d6a0ac4fec99bfed9b0ebcc5b9bd1c7b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>930074</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://764" path="tracks/149d1c3e94c3f5ab4b5bcdec26ecfc6d7dab3611">
+      <lyrics/>
+      <moods/>
+      <rating_count>1141939</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://763" path="tracks/73c1bde2211bab156f61bb89c4281295a273e7c6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755774&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Transparent" remote="com.plexapp.agents.lyricfind_09228db662d6f4d4141905324df0e20a28290b54" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>894707</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://762" path="tracks/aad3c9c36a19c5908feb3091f8e29a2eb41d845f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755773&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Cloud%20Connected" remote="com.plexapp.agents.lyricfind_5fee26196e31bc03712e03e3a9e3817511280557" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2692501</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://761" path="tracks/380413384dc576fb013bff0d680ba74899519ae0">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755772&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Trigger" remote="com.plexapp.agents.lyricfind_1f6c2d3ba80c9edc8bc9137d4078840baef409e1" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>2315636</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://760" path="tracks/f69457089abbfb62d71bcaf8d9b1ef933f2f6ede">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755771&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Drifter" remote="com.plexapp.agents.lyricfind_6648e47bcc326e83598c90e3e2a827e28bfa6c24" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>987187</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://770" path="tracks/fc6f7e9dbe1789345b0b1ec77d3d22edacbcb229">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755781&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Metaphor" remote="com.plexapp.agents.lyricfind_774618018f4a4f4853edf7b99bd6b968ee57c315" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1461326</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://768" path="tracks/cd410aaf2480ba3d31a75c884237255750eaef40">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755779&amp;lrc=1&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Free%20Fall" remote="com.plexapp.agents.lyricfind_d8ecf69ab6b1423a4f14f48b5e6032ff1f7137f7" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755779&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Free%20Fall" remote="com.plexapp.agents.lyricfind_d2ca67215f2c895cee4b93f5920cae941e19c86f" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1335119</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://769" path="tracks/83c9724c63b70ee0ae53730bd2e9a2428a6e4e98">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755780&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Dark%20Signs" remote="com.plexapp.agents.lyricfind_4e44868adad079d90124176330fc55a1696fbc21" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>850608</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://771" path="tracks/38911592e016746e0e04e9fefcf1f9a50f493868">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5755782&amp;artist=In%20Flames&amp;album=Reroute%20to%20Remain&amp;track=Black%20%26%20White" remote="com.plexapp.agents.lyricfind_329251496e7a6ec3fcb8cb5c8cfb47f963df1727" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>857094</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

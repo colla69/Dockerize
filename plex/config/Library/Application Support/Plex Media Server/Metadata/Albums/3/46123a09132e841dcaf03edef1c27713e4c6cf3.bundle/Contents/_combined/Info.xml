@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Melodic Death Metal</item>
+  </genres>
+  <originally_available_at>2008-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="6dbc0add947b386fec8a25b42a8f5c50" media="com.plexapp.agents.localmedia_3555b0b51a881389840e2b7c014a7cfe7ce2b7e6" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://719" path="tracks/513f7bcf8ab5a78cf642c68005ded6b293f0a885">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976857&amp;lrc=1&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Condemned" remote="com.plexapp.agents.lyricfind_d961410e9addf2631e0ba3d78adc4a31f108085e" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976857&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Condemned" remote="com.plexapp.agents.lyricfind_8267bd4a8cd3669774e4a222390f3d0c79c7bd31" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>917714</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://712" path="tracks/394396f32c1ba60594b38ebfc01adb04707a68d5">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976850&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Sleepless%20Again" remote="com.plexapp.agents.lyricfind_bf160c571058e411766c9b607a8fef33995be193" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1182033</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://713" path="tracks/c584bff31cc5860d57e9e8e79b6a635efc6c5c24">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976851&amp;lrc=1&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Alias" remote="com.plexapp.agents.lyricfind_ef35e7757c7ebc741b0241d7bfad5dec22651d15" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976851&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Alias" remote="com.plexapp.agents.lyricfind_bb3fb430f4d5d74ce3782ee032c81b82e01e0256" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1887441</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://710" path="tracks/3d6eb491e30e13c35069366b4bf261a9ecf14ffa">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976848&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=The%20Mirror%27s%20Truth" remote="com.plexapp.agents.lyricfind_747615bde0a1257f622d9f63c8bfe13776766206" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1795272</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://711" path="tracks/376fa95b314b5be2f03411fb58c92c367fcde244">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976849&amp;lrc=1&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Disconnected" remote="com.plexapp.agents.lyricfind_4b8699de020c934145d760527b40228dbed32c70" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976849&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Disconnected" remote="com.plexapp.agents.lyricfind_2b88e88e2bd8e69c2fb61387e3801eb6d69dd0e5" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1366478</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://716" path="tracks/46a9798406dca89a6e5d538f494d5bb2982f1aa9">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976854&amp;lrc=1&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Move%20Through%20Me" remote="com.plexapp.agents.lyricfind_35b7ef0c52cfe0982ca40443031bb6cdf4edaa6a" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976854&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Move%20Through%20Me" remote="com.plexapp.agents.lyricfind_d8b2a5497b17904e95f77506952b8492337f0fc5" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1086042</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://717" path="tracks/92b8eedc73730c4666a48c41362724c839f7f689">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976855&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=The%20Chosen%20Pessimist" remote="com.plexapp.agents.lyricfind_edeb6bb1292b7dfb88f256de99c77095f1d6b65a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1383026</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://714" path="tracks/149b354fbcdaa6fb608d7bf5db8d480c3f274c97">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976852&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=I%27m%20the%20Highway" remote="com.plexapp.agents.lyricfind_9c61aac200e64b77a710da437cd287480c489e25" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1339546</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://715" path="tracks/b9b06ccdfbbf95ad2dc44f6af3d7097fa3874489">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976853&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Delight%20and%20Angers" remote="com.plexapp.agents.lyricfind_ad08650cc2e7d51d564207de113f07bd5b3bcf86" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1445821</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://723" path="tracks/0fbf66977784b037ed612be4a0e28c10e277dca9">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-14021408&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Tilt" remote="com.plexapp.agents.lyricfind_b4b48fb7ed4ec262259a8cfb02badf92de0b1682" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>631022</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://722" path="tracks/90e99aa3b69352717361321415dce7e6269ab1a8">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-14021407&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Eraser" remote="com.plexapp.agents.lyricfind_3a289eecabb3be583cf5a1ccc5a405df283ae7ac" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>696440</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://718" path="tracks/b640e15d860d40d322063eaa832d7d3aac359a5f">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976856&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Sober%20and%20Irrelevant" remote="com.plexapp.agents.lyricfind_b6540eac8995c02858612ae5e6764e5a7ff89b6a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>900006</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://720" path="tracks/dcb898314428079724016c0e034ea9ac2001237b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976858&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Drenched%20in%20Fear" remote="com.plexapp.agents.lyricfind_216a872d326d4a1e2f97049479eccd8a16d9a9b3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>953115</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://721" path="tracks/672dcffbc68bf6834ae49af20412ebb10af495be">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-13976859&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=March%20to%20the%20Shore" remote="com.plexapp.agents.lyricfind_f1d3e04545f4c655412f8d4fa503b97e3e584ae3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>876241</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://724" path="tracks/64b20b87aa23ba36b4438432af00b0697615ea87">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-14021409&amp;artist=In%20Flames&amp;album=A%20Sense%20of%20Purpose&amp;track=Abnegation" remote="com.plexapp.agents.lyricfind_adee6504943b6be31172d157d0ac36d99f9a0f40" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>762949</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

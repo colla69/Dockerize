@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <originally_available_at>2004-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="29096c5929a815668cafadfff9bb9796" media="com.plexapp.agents.localmedia_6b84dd534bd2474d55dd048d9db37c392e001727" provider="com.plexapp.agents.localmedia"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://473" path="tracks/f2477d1cdb1cb9fc3d9d4a42590d143a9e5e0204">
+      <lyrics/>
+      <moods/>
+      <rating_count>190875</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://472" path="tracks/3885002e4d5d0659f84691594e5aa3b4fa5b1f01">
+      <lyrics/>
+      <moods/>
+      <rating_count>206148</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://471" path="tracks/a93fffe90017fd0333bb2b859f8b51dd462b5db8">
+      <lyrics/>
+      <moods/>
+      <rating_count>243452</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://470" path="tracks/6033fadaadd4bba83caa43588103b8b67db49c40">
+      <lyrics/>
+      <moods/>
+      <rating_count>984158</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://477" path="tracks/b9a507696d49df15f11bb279498d700256776701">
+      <lyrics/>
+      <moods/>
+      <rating_count>152299</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://476" path="tracks/d09bd3f36693d77805a96c5c6a62009ad9aed2ec">
+      <lyrics/>
+      <moods/>
+      <rating_count>550591</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://475" path="tracks/0755fbba5b3a1fa1daeb01b399c72d9c0bf0c801">
+      <lyrics/>
+      <moods/>
+      <rating_count>185025</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://474" path="tracks/0d82b65abc304750f9e6b69a932f1ff925bcda93">
+      <lyrics/>
+      <moods/>
+      <rating_count>206660</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://479" path="tracks/48a4a31157783a66789379b45aae35fe504bde71">
+      <lyrics/>
+      <moods/>
+      <rating_count>173722</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://478" path="tracks/bf102129ab95ad799fd169e09ed528bda955cec5">
+      <lyrics/>
+      <moods/>
+      <rating_count>203891</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://482" path="tracks/53f535504b30e9c8cb8928b48c1399e12cddf141">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://480" path="tracks/895ccfcc86881e7df6b59b27f9b0c3205107268c">
+      <lyrics/>
+      <moods/>
+      <rating_count>119563</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://481" path="tracks/2e521b6663490bcdb54acb4d12f9ad29c82238a7">
+      <lyrics/>
+      <moods/>
+      <rating_count>1626322</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

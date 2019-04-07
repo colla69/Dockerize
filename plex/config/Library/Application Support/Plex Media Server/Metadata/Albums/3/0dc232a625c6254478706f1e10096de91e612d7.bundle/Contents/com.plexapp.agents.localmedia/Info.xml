@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="null">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">World</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="390e73ef7797ee18efd2767d8657a555" media="0ed8ac083c577275aaf124da59617f51b01a7147"/>
+    <item external="True" url="262d09d71db8b055dbd48e1659c4a628" media="f70f0204b976a52a81f0906655a99a168e9463b5"/>
+  </posters>
+  <originally_available_at>2001-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

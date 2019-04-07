@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://894" path="tracks/3d4af01fe459b65f62159408f256beab9b194432">
+      <lyrics/>
+      <moods/>
+      <rating_count>151526</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

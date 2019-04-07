@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://171" path="tracks/1e324bde500089e5b38c49ecc5120917cedd3807">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://169" path="tracks/a24df44031808edc0e0bddced19d5f0e793918fb">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://168" path="tracks/4c9364a7d572a44648c39cc3743f617e5c7e8288">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://181" path="tracks/27b4e1196bd925c2846929aff5f6970c066b5738">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://180" path="tracks/1c02b2773cb723208cf0772b545d6b4afa6bc87b">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://170" path="tracks/b7f8f8fe18cbfff763c277cb1c020a0a947382e7">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://178" path="tracks/e75429e96267f40c7ecb6c3aa90124cc77ba85a8">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://179" path="tracks/a0c4a70858e680ec9647887057bd546c603affdf">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://176" path="tracks/49b43ba7a1b38f307db7427118263c25a7485db6">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://177" path="tracks/24634af60d8af33590e63798ecc1b4c7eeecbb62">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://174" path="tracks/7cd20718fe7ccb91cc66f9f48a725e31b3c6f3a5">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://175" path="tracks/0a81b0a7db77f3b1fdb55bd7b90076ac41eb0e57">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://172" path="tracks/77453c36e4af79166b3b68c6d14c8dc56413fcb6">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://173" path="tracks/de058198d8942ea6b9179d9713d8d7634b92087c">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://167" path="tracks/5b7af8d6dc67e27d6dc9e292df15447215ae4d1a">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://166" path="tracks/e5b5ce0140a58956be05aacf98a9c3842009ce1d">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

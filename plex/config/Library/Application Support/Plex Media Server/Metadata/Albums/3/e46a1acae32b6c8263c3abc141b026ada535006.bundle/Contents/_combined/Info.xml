@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <originally_available_at>1999-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="b93ade651f6e40c446fb850706ce87c4" media="com.plexapp.agents.localmedia_12d48b6b912cf4933b7c23c80520495bf0549953" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/22f9cae48505283890ac16874038838e.png" media="com.plexapp.agents.lastfm_0622279f0b7ebaabf40dd4536ef237d51e8fe4d9" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Eden Roc</title>
+  <tracks>
+    <item guid="local://563" path="tracks/f12e084bdce4f629a1ba73d32ae0e992f4f87dfd">
+      <lyrics/>
+      <moods/>
+      <rating_count>61041</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://562" path="tracks/2ce0a9abdeb39686bf2ce20e61e0d3845dd9913b">
+      <lyrics/>
+      <moods/>
+      <rating_count>277231</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://559" path="tracks/7d83fb571de90401e928402909dfe6986f427fad">
+      <lyrics/>
+      <moods/>
+      <rating_count>65966</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://565" path="tracks/0683269456cd2819eed0232ca0693d0f4833951f">
+      <lyrics/>
+      <moods/>
+      <rating_count>110708</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://564" path="tracks/b3a33844e3545e255e770fdab520cf0fef874330">
+      <lyrics/>
+      <moods/>
+      <rating_count>64131</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://567" path="tracks/f32e4c940e2ffddbdb5c565d71bcbcfa51a9c842">
+      <lyrics/>
+      <moods/>
+      <rating_count>61962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://566" path="tracks/7281c5fcd65fc537defb2daaba66755d30dfbc0c">
+      <lyrics/>
+      <moods/>
+      <rating_count>61810</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://561" path="tracks/b82a8ccce58e8a35c78259a967088cb962475deb">
+      <lyrics/>
+      <moods/>
+      <rating_count>119159</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://555" path="tracks/e108fe36eb9cca00036c1a22d95bfd53fafedbc5">
+      <lyrics/>
+      <moods/>
+      <rating_count>196552</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://556" path="tracks/b791ffea700c4eba8e2c21e5495eb418bc0c88f1">
+      <lyrics/>
+      <moods/>
+      <rating_count>116473</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://557" path="tracks/2864cf07308ee3a9ee3c3375b8e8850c9f8ac780">
+      <lyrics/>
+      <moods/>
+      <rating_count>344149</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://558" path="tracks/e15251cd92a6568157ca739ec0cd698ef11cc15d">
+      <lyrics/>
+      <moods/>
+      <rating_count>62639</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://554" path="tracks/044b098569fd243e3eb6ad42f33d2af899c82bcc">
+      <lyrics/>
+      <moods/>
+      <rating_count>175925</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://553" path="tracks/843e3032cbafe0a44ce94bcdf0d2a8a19a93ea2b">
+      <lyrics/>
+      <moods/>
+      <rating_count>83631</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://560" path="tracks/23520edbb833839806990b0afbee8022a567fd65">
+      <lyrics/>
+      <moods/>
+      <rating_count>194201</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

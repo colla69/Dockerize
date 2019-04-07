@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Artist id="Ludovico%20Einaudi">
+  <rating/>
+  <art/>
+  <themes/>
+  <duration/>
+  <genres>
+    <item index="0">Piano</item>
+    <item index="1">Classical</item>
+    <item index="2">Contemporary classical</item>
+    <item index="3">Instrumental</item>
+    <item index="4">Ambient</item>
+  </genres>
+  <title>Ludovico Einaudi</title>
+  <rating_count/>
+  <collections/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <audience_rating/>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/81085aa10c9a4c6090edee8583b1bc13.png" media="7e2be0f9c42f3d2994d7df88d1bed2b63c256d3f"/>
+  </posters>
+  <albums/>
+  <countries/>
+  <title_sort/>
+  <original_title/>
+  <summary>Ludovico Einaudi (born 23 November 1955 in Turin, Italy) is an Italian composer and pianist particularly noted for the use of developing melodious phrases in his piano compositions.</summary>
+  <reviews/>
+  <similar>
+    <item index="0">Roberto Cacciapaglia</item>
+    <item index="1">Fabrizio Paterlini</item>
+    <item index="2">Yann Tiersen</item>
+    <item index="3">Whitetree</item>
+    <item index="4">Dirk Maassen</item>
+    <item index="5">Helen Jane Long</item>
+    <item index="6">Michael Nyman</item>
+    <item index="7">Yiruma</item>
+    <item index="8">Ólafur Arnalds</item>
+    <item index="9">Brian Crain</item>
+    <item index="10">Dustin O'Halloran</item>
+    <item index="11">Philip Wesley</item>
+    <item index="12">Max Richter</item>
+    <item index="13">Giovanni Allevi</item>
+    <item index="14">Wim Mertens</item>
+    <item index="15">Martin Jacoby</item>
+    <item index="16">The Piano Guys</item>
+    <item index="17">Alexis Ffrench</item>
+    <item index="18">Joep Beving</item>
+    <item index="19">Bruno Sanfilippo</item>
+  </similar>
+  <concerts>
+    <item index="0">
+      <city>Berlin</city>
+      <title>Ludovico Einaudi at Grosser Saal De La Philarmonie De Berlin (April 5, 2019)</title>
+      <url>http://www.songkick.com/concerts/36117549-ludovico-einaudi-at-grosser-saal-de-la-philarmonie-de-berlin?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Grosser Saal De La Philarmonie De Berlin</venue>
+      <date>2019-04-05 00:00:00</date>
+    </item>
+    <item index="1">
+      <city>Vienna</city>
+      <title>Ludovico Einaudi at Musikverein (April 7, 2019)</title>
+      <url>http://www.songkick.com/concerts/36117554-ludovico-einaudi-at-musikverein?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Austria</country>
+      <venue>Musikverein</venue>
+      <date>2019-04-07 00:00:00</date>
+    </item>
+    <item index="2">
+      <city>Parma</city>
+      <title>Ludovico Einaudi at Teatro Regio (April 10, 2019)</title>
+      <url>http://www.songkick.com/concerts/36396874-ludovico-einaudi-at-teatro-regio?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Teatro Regio</venue>
+      <date>2019-04-10 00:00:00</date>
+    </item>
+    <item index="3">
+      <city>Trieste</city>
+      <title>Ludovico Einaudi at Politeama Rossetti (April 11, 2019)</title>
+      <url>http://www.songkick.com/concerts/36384229-ludovico-einaudi-at-politeama-rossetti?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Politeama Rossetti</venue>
+      <date>2019-04-11 00:00:00</date>
+    </item>
+    <item index="4">
+      <city>Paris</city>
+      <title>Ludovico Einaudi at Salle Pleyel (April 14, 2019)</title>
+      <url>http://www.songkick.com/concerts/36117564-ludovico-einaudi-at-salle-pleyel?utm_source=38767&amp;utm_medium=partner</url>
+      <country>France</country>
+      <venue>Salle Pleyel</venue>
+      <date>2019-04-14 00:00:00</date>
+    </item>
+    <item index="5">
+      <city>Paris</city>
+      <title>Ludovico Einaudi at Salle Pleyel (April 15, 2019)</title>
+      <url>http://www.songkick.com/concerts/36117579-ludovico-einaudi-at-salle-pleyel?utm_source=38767&amp;utm_medium=partner</url>
+      <country>France</country>
+      <venue>Salle Pleyel</venue>
+      <date>2019-04-15 00:00:00</date>
+    </item>
+    <item index="6">
+      <city>Brussels</city>
+      <title>Ludovico Einaudi at Royal Circus (Cirque Royal/Koninklijk Circus) (April 16, 2019)</title>
+      <url>http://www.songkick.com/concerts/36398874-ludovico-einaudi-at-royal-circus?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Belgium</country>
+      <venue>Royal Circus (Cirque Royal/Koninklijk Circus)</venue>
+      <date>2019-04-16 00:00:00</date>
+    </item>
+    <item index="7">
+      <city>Washington</city>
+      <title>Ludovico Einaudi at Concert Hall, Kennedy Center (May 31, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308214-ludovico-einaudi-at-concert-hall-kennedy-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Concert Hall, Kennedy Center</venue>
+      <date>2019-05-31 00:00:00</date>
+    </item>
+    <item index="8">
+      <city>Philadelphia</city>
+      <title>Ludovico Einaudi at Merriam Theater, Kimmel Center (June 1, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308249-ludovico-einaudi-at-merriam-theater-kimmel-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Merriam Theater, Kimmel Center</venue>
+      <date>2019-06-01 00:00:00</date>
+    </item>
+    <item index="9">
+      <city>New York</city>
+      <title>Ludovico Einaudi at Carnegie Hall, Zankel Hall (June 4, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308264-ludovico-einaudi-at-carnegie-hall-zankel-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Carnegie Hall, Zankel Hall</venue>
+      <date>2019-06-04 00:00:00</date>
+    </item>
+    <item index="10">
+      <city>Chicago</city>
+      <title>Ludovico Einaudi at Cadillac Palace Theatre (June 6, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308299-ludovico-einaudi-at-cadillac-palace-theatre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Cadillac Palace Theatre</venue>
+      <date>2019-06-06 00:00:00</date>
+    </item>
+    <item index="11">
+      <city>Denver</city>
+      <title>Ludovico Einaudi at Ellie Caulkins Opera House (June 8, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308339-ludovico-einaudi-at-ellie-caulkins-opera-house?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Ellie Caulkins Opera House</venue>
+      <date>2019-06-08 00:00:00</date>
+    </item>
+    <item index="12">
+      <city>SF Bay Area</city>
+      <title>Ludovico Einaudi at Davies Symphony Hall (June 11, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308349-ludovico-einaudi-at-davies-symphony-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Davies Symphony Hall</venue>
+      <date>2019-06-11 00:00:00</date>
+    </item>
+    <item index="13">
+      <city>San Diego</city>
+      <title>Ludovico Einaudi at Copley Symphony Hall (June 14, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308409-ludovico-einaudi-at-copley-symphony-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Copley Symphony Hall</venue>
+      <date>2019-06-14 00:00:00</date>
+    </item>
+    <item index="14">
+      <city>Los Angeles</city>
+      <title>Ludovico Einaudi at Walt Disney Concert Hall (June 16, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308434-ludovico-einaudi-at-walt-disney-concert-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>Walt Disney Concert Hall</venue>
+      <date>2019-06-16 00:00:00</date>
+    </item>
+    <item index="15">
+      <city>Seattle</city>
+      <title>Ludovico Einaudi at McCaw Hall, Seattle Center (June 18, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308459-ludovico-einaudi-at-mccaw-hall-seattle-center?utm_source=38767&amp;utm_medium=partner</url>
+      <country>US</country>
+      <venue>McCaw Hall, Seattle Center</venue>
+      <date>2019-06-18 00:00:00</date>
+    </item>
+    <item index="16">
+      <city>Vancouver</city>
+      <title>Ludovico Einaudi at The Orpheum (June 19, 2019)</title>
+      <url>http://www.songkick.com/concerts/37308489-ludovico-einaudi-at-orpheum?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Canada</country>
+      <venue>The Orpheum</venue>
+      <date>2019-06-19 00:00:00</date>
+    </item>
+    <item index="17">
+      <city>Vienne</city>
+      <title>Ludovico Einaudi at Théâtre Antique (July 20, 2019)</title>
+      <url>http://www.songkick.com/concerts/37081459-ludovico-einaudi-at-theatre-antique?utm_source=38767&amp;utm_medium=partner</url>
+      <country>France</country>
+      <venue>Théâtre Antique</venue>
+      <date>2019-07-20 00:00:00</date>
+    </item>
+    <item index="18">
+      <city>Verona</city>
+      <title>Ludovico Einaudi at Teatro Romano (July 22, 2019)</title>
+      <url>http://www.songkick.com/concerts/37291274-ludovico-einaudi-at-teatro-romano?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Teatro Romano</venue>
+      <date>2019-07-22 00:00:00</date>
+    </item>
+    <item index="19">
+      <city>Florence</city>
+      <title>Ludovico Einaudi at Teatro Romano di Fiesole (July 23, 2019)</title>
+      <url>http://www.songkick.com/concerts/37291299-ludovico-einaudi-at-teatro-romano-di-fiesole?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Teatro Romano di Fiesole</venue>
+      <date>2019-07-23 00:00:00</date>
+    </item>
+    <item index="20">
+      <city>Siracusa</city>
+      <title>Ludovico Einaudi at Teatro Greco (July 25, 2019)</title>
+      <url>http://www.songkick.com/concerts/37291324-ludovico-einaudi-at-teatro-greco?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Teatro Greco</venue>
+      <date>2019-07-25 00:00:00</date>
+    </item>
+    <item index="21">
+      <city>Naples</city>
+      <title>Ludovico Einaudi at Arena Flegrea (July 27, 2019)</title>
+      <url>http://www.songkick.com/concerts/37291339-ludovico-einaudi-at-arena-flegrea?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Arena Flegrea</venue>
+      <date>2019-07-27 00:00:00</date>
+    </item>
+    <item index="22">
+      <city>Rome</city>
+      <title>Ludovico Einaudi at Terme Di Caracalla (July 29, 2019)</title>
+      <url>http://www.songkick.com/concerts/37291354-ludovico-einaudi-at-terme-di-caracalla?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Italy</country>
+      <venue>Terme Di Caracalla</venue>
+      <date>2019-07-29 00:00:00</date>
+    </item>
+    <item index="23">
+      <city>London</city>
+      <title>Ludovico Einaudi at Barbican Centre (July 31, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564694-ludovico-einaudi-at-barbican-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Barbican Centre</venue>
+      <date>2019-07-31 00:00:00</date>
+    </item>
+    <item index="24">
+      <city>London</city>
+      <title>Ludovico Einaudi at Barbican Centre (August 1, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564724-ludovico-einaudi-at-barbican-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Barbican Centre</venue>
+      <date>2019-08-01 00:00:00</date>
+    </item>
+    <item index="25">
+      <city>London</city>
+      <title>Ludovico Einaudi at Barbican Centre (August 2, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564734-ludovico-einaudi-at-barbican-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Barbican Centre</venue>
+      <date>2019-08-02 00:00:00</date>
+    </item>
+    <item index="26">
+      <city>London</city>
+      <title>Ludovico Einaudi at Barbican Centre (August 3, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564739-ludovico-einaudi-at-barbican-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Barbican Centre</venue>
+      <date>2019-08-03 00:00:00</date>
+    </item>
+    <item index="27">
+      <city>London</city>
+      <title>Ludovico Einaudi at Barbican Centre (August 4, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564764-ludovico-einaudi-at-barbican-centre?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Barbican Centre</venue>
+      <date>2019-08-04 00:00:00</date>
+    </item>
+    <item index="28">
+      <city>Birmingham</city>
+      <title>Ludovico Einaudi at Symphony Hall (October 12, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564784-ludovico-einaudi-at-symphony-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Symphony Hall</venue>
+      <date>2019-10-12 00:00:00</date>
+    </item>
+    <item index="29">
+      <city>Brighton</city>
+      <title>Ludovico Einaudi at Brighton Dome (October 13, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564814-ludovico-einaudi-at-brighton-dome?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Brighton Dome</venue>
+      <date>2019-10-13 00:00:00</date>
+    </item>
+    <item index="30">
+      <city>Dresden</city>
+      <title>Ludovico Einaudi at Konzertsaal Im Kulturpalast Dresden (October 15, 2019)</title>
+      <url>http://www.songkick.com/concerts/36162959-ludovico-einaudi-at-konzertsaal-im-kulturpalast-dresden?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Konzertsaal Im Kulturpalast Dresden</venue>
+      <date>2019-10-15 00:00:00</date>
+    </item>
+    <item index="31">
+      <city>Frankfurt</city>
+      <title>Ludovico Einaudi at Alte Oper (October 16, 2019)</title>
+      <url>http://www.songkick.com/concerts/36190864-ludovico-einaudi-at-alte-oper?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Alte Oper</venue>
+      <date>2019-10-16 00:00:00</date>
+    </item>
+    <item index="32">
+      <city>Stuttgart</city>
+      <title>Ludovico Einaudi at Beethovensaal, Liederhalle (October 17, 2019)</title>
+      <url>http://www.songkick.com/concerts/36178559-ludovico-einaudi-at-beethovensaal-liederhalle?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Beethovensaal, Liederhalle</venue>
+      <date>2019-10-17 00:00:00</date>
+    </item>
+    <item index="33">
+      <city>Düsseldorf</city>
+      <title>Ludovico Einaudi at Tonhalle Düsseldorf (October 18, 2019)</title>
+      <url>http://www.songkick.com/concerts/36162964-ludovico-einaudi-at-tonhalle-dusseldorf?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Tonhalle Düsseldorf</venue>
+      <date>2019-10-18 00:00:00</date>
+    </item>
+    <item index="34">
+      <city>Liverpool</city>
+      <title>Ludovico Einaudi at Liverpool Philharmonic Hall (October 28, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564834-ludovico-einaudi-at-liverpool-philharmonic-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Liverpool Philharmonic Hall</venue>
+      <date>2019-10-28 00:00:00</date>
+    </item>
+    <item index="35">
+      <city>Edinburgh</city>
+      <title>Ludovico Einaudi at Usher Hall (October 29, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564949-ludovico-einaudi-at-usher-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Usher Hall</venue>
+      <date>2019-10-29 00:00:00</date>
+    </item>
+    <item index="36">
+      <city>Glasgow</city>
+      <title>Ludovico Einaudi at SEC Armadillo (October 30, 2019)</title>
+      <url>http://www.songkick.com/concerts/37564974-ludovico-einaudi-at-sec-armadillo?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>SEC Armadillo</venue>
+      <date>2019-10-30 00:00:00</date>
+    </item>
+    <item index="37">
+      <city>Nottingham</city>
+      <title>Ludovico Einaudi at Royal Concert Hall (November 2, 2019)</title>
+      <url>http://www.songkick.com/concerts/37565054-ludovico-einaudi-at-royal-concert-hall?utm_source=38767&amp;utm_medium=partner</url>
+      <country>UK</country>
+      <venue>Royal Concert Hall</venue>
+      <date>2019-11-02 00:00:00</date>
+    </item>
+    <item index="38">
+      <city>Madrid</city>
+      <title>Ludovico Einaudi at Teatro Real (November 5, 2019)</title>
+      <url>http://www.songkick.com/concerts/37211989-ludovico-einaudi-at-teatro-real?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Spain</country>
+      <venue>Teatro Real</venue>
+      <date>2019-11-05 00:00:00</date>
+    </item>
+    <item index="39">
+      <city>Hamburg</city>
+      <title>Ludovico Einaudi at Elbphilharmonie - Großer Saal (November 13, 2019)</title>
+      <url>http://www.songkick.com/concerts/36229439-ludovico-einaudi-at-elbphilharmonie-grosser-saal?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Elbphilharmonie - Großer Saal</venue>
+      <date>2019-11-13 00:00:00</date>
+    </item>
+    <item index="40">
+      <city>Hamburg</city>
+      <title>Ludovico Einaudi at Elbphilharmonie - Großer Saal (November 14, 2019)</title>
+      <url>http://www.songkick.com/concerts/36547514-ludovico-einaudi-at-elbphilharmonie-grosser-saal?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Elbphilharmonie - Großer Saal</venue>
+      <date>2019-11-14 00:00:00</date>
+    </item>
+    <item index="41">
+      <city>Munich</city>
+      <title>Ludovico Einaudi at Philharmonie im Gasteig (November 15, 2019)</title>
+      <url>http://www.songkick.com/concerts/36444829-ludovico-einaudi-at-philharmonie-im-gasteig?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Philharmonie im Gasteig</venue>
+      <date>2019-11-15 00:00:00</date>
+    </item>
+    <item index="42">
+      <city>Nuremberg</city>
+      <title>Ludovico Einaudi at Meistersingerhalle Nürnberg (November 16, 2019)</title>
+      <url>http://www.songkick.com/concerts/36190859-ludovico-einaudi-at-meistersingerhalle-nurnberg?utm_source=38767&amp;utm_medium=partner</url>
+      <country>Germany</country>
+      <venue>Meistersingerhalle Nürnberg</venue>
+      <date>2019-11-16 00:00:00</date>
+    </item>
+  </concerts>
+</Artist>

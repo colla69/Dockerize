@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="725">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">Metal</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="75320d07be3b05ab21a473acefd92f99" media="3033bc15e9ed9c5fce9e1a823185cf61ff36a2a7"/>
+    <item external="True" url="627f26c6998058bd117893fab0fcf325" media="be687a60052a5d0a033e8308895215ca0aa56f72"/>
+  </posters>
+  <originally_available_at>2006-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

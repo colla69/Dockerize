@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="538">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="aeae886d5bf2c5cf57a3074019da7402" media="0b3c149187667ad4012197c8a5382db9c586ed7f"/>
+    <item external="True" url="2561253ddd71d56704d52c89fbbb9cf4" media="e1b5d580ed1f32da94575f8565896ea5f3b2dbca"/>
+    <item external="True" url="57888bfc483c522a58810738b5d51b21" media="481e29a691732617714952020781a652623d56b3"/>
+  </posters>
+  <originally_available_at>1996-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

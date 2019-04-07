@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Rock</item>
+  </genres>
+  <originally_available_at>1995-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/50932d88a61cfc7492fe7e1372a8369f.png" media="com.plexapp.agents.lastfm_5fdeb681755ee4cfa33149a5102cc372d9badcf5" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Nessun Pericolo... Per Te</title>
+  <tracks>
+    <item guid="local://299" path="tracks/0f2f739c1b109972866fc1dfa43232611692efb5">
+      <lyrics/>
+      <moods/>
+      <rating_count>4077</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://298" path="tracks/0892e0b7ae0f1cfc547dc8b3d16ddafeef483460">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009254&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Nessun%20Pericolo...Per%20Te" remote="com.plexapp.agents.lyricfind_d9915e92f3ee5aaf5ea48f40efe735fd8349e6bb" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3373</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://293" path="tracks/1971207dac605568e5a6e64840d3e67cd5c87364">
+      <lyrics/>
+      <moods/>
+      <rating_count>43712</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://292" path="tracks/41d89f9935b45b36e36331d6d1b7f0007326d5b8">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009260&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Benvenuto" remote="com.plexapp.agents.lyricfind_0b7f2ac293cffa2f195f912cd7487f19854b8297" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7133</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://291" path="tracks/6eec79df9f97a6915a8b5ec2ea5fcf4247a7c8de">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009261&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Un%20Gran%20Bel%20Film" remote="com.plexapp.agents.lyricfind_4d7c5c8b5f1b3bdf3e8cf5b998f013f147d94cf4" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>12476</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://297" path="tracks/98ff294243b25df9e11bc34ea9497ad4d91107d4">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009255&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Le%20Cose%20Che%20Non%20Dici" remote="com.plexapp.agents.lyricfind_66ad0f7ffc2666fddf219f7bae53bb876b6f8c32" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3706</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://296" path="tracks/b34366999d99098d4149abe5aa3a4df0cbcaba51">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009256&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Praticamente%20Perfetto" remote="com.plexapp.agents.lyricfind_6b02df7e93d509ce2b5373088b05229ea0834b8e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3998</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://295" path="tracks/33971ad853a4fad716116f50d5cc63f40aedde4b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009257&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Sally" remote="com.plexapp.agents.lyricfind_7412d2e45944e01c07557a91f1beb3ab98cb361e" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>82595</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://294" path="tracks/25f082cbe82a7ec838b72b4b79b38a57d0efdc4e">
+      <lyrics/>
+      <moods/>
+      <rating_count>11718</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://300" path="tracks/92141c6c0a0cdaf3069ff6cb999ecb07eaee7837">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-34009252&amp;artist=Vasco%20Rossi&amp;album=Nessun%20Pericolo...%20Per%20Te&amp;track=Marea" remote="com.plexapp.agents.lyricfind_26c149609c55f34bff915cb368d5153b7187d1b8" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>3216</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

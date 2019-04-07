@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Heavy Metal</item>
+  </genres>
+  <originally_available_at>2011-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://687" path="tracks/ae6cef2780db1dc4c13a9754684e2b5aff839c64">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681133&amp;lrc=1&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Sounds%20of%20a%20Playground%20Fading" remote="com.plexapp.agents.lyricfind_690a816f0ad1203ba81ca9e4848fe94f62f5cbe3" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681133&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Sounds%20of%20a%20Playground%20Fading" remote="com.plexapp.agents.lyricfind_4a52f69e175d06ddcf7fb687a0f948d08a6e08ef" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>801867</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://688" path="tracks/dca7fef20470b5df1c016b5094bead8a9d6839f7">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681132&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Deliver%20Us" remote="com.plexapp.agents.lyricfind_124023f30d247ef22197cb08a6183de18005b6c9" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>1406737</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://689" path="tracks/0ec7e2ff3eabc8b5d9dd2c044680ae67cc312440">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681131&amp;lrc=1&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=All%20For%20Me" remote="com.plexapp.agents.lyricfind_ae8a844269ca07c1a49dd0173dc8cbdd11c6f2f0" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681131&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=All%20For%20Me" remote="com.plexapp.agents.lyricfind_4803cd8a4a62998845e4ae0ed361615608a4f15f" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>660872</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://699" path="tracks/255cd41a52aa33fa94097166c8970b97262455c9">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681121&amp;lrc=1&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Liberation" remote="com.plexapp.agents.lyricfind_2b7734af0b9628c1b451cb7ceda4c24b678c5c30" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681121&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Liberation" remote="com.plexapp.agents.lyricfind_256e11ec743895c6f646dec320cfc20d0e6c88cf" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>517651</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://698" path="tracks/e8f54b9e3c28e384414b8bedf8a0202e4bfee6db">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681122&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=A%20New%20Dawn" remote="com.plexapp.agents.lyricfind_d521fa8d6a854bba13a637b7ad7f4e4b84036a20" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>509389</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://697" path="tracks/c1e0f3fecd8a1abfd8b28e3daa67fdaff16dc41d">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681123&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Jester%27s%20Door" remote="com.plexapp.agents.lyricfind_88c392197d17d71bbfdf2f430fda6304c20f9002" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>387228</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://696" path="tracks/7379003d48ef52f63622785777004b3eee496f5e">
+      <lyrics/>
+      <moods/>
+      <rating_count>496113</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://695" path="tracks/319e447c3207cd7e4b596fa009703ff8ec4b009b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681125&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Ropes" remote="com.plexapp.agents.lyricfind_a017328d96c1939281d79cda3d77d1e3348e8c4b" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>699683</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://694" path="tracks/a6ffc4008cbd0a5c740531ed9e6c0904bfc968d6">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681126&amp;lrc=1&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Darker%20Times" remote="com.plexapp.agents.lyricfind_f8e6873abcdd97b1a240d6dda06aeb3bf00ce742" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681126&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Darker%20Times" remote="com.plexapp.agents.lyricfind_6fd350010f30f24c338e7ec7ceba63bfe858c57b" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>541862</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://693" path="tracks/890579acf7d432de5f606ab7e99a068c07c3a54b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681127&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=The%20Attic" remote="com.plexapp.agents.lyricfind_18fcdcb25234934bd585b842f80d8b75fe403e47" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>516905</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://692" path="tracks/c6fe70cdf01af99756b9bebbf335a1690eaced66">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681128&amp;lrc=1&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Where%20the%20Dead%20Ships%20Dwell" remote="com.plexapp.agents.lyricfind_7aa60e644f6ffef529452c0abe9c4932880a2de6" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681128&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Where%20the%20Dead%20Ships%20Dwell" remote="com.plexapp.agents.lyricfind_fd8378d19ba73d088fe23bbc64762d2ca68f64e7" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>937331</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://691" path="tracks/41ce9412a6c3b603c1fbe581028dea9350d8b00c">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681129&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=Fear%20is%20the%20Weakness" remote="com.plexapp.agents.lyricfind_c12be46e9817fbb08afeefe77960dfbc83050320" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>754008</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://690" path="tracks/4f7ce507879c5ef709760a77d6ff020270897d0a">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-23681130&amp;artist=In%20Flames&amp;album=Sounds%20of%20a%20Playground%20Fading&amp;track=The%20Puzzle" remote="com.plexapp.agents.lyricfind_fc06324d7bec097e73bf197254b034e309830d1f" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>544146</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

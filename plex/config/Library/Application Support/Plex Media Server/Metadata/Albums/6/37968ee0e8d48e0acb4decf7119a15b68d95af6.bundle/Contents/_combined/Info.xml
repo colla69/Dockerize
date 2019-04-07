@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres/>
+  <originally_available_at>1984-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <tracks>
+    <item guid="local://916" path="tracks/a5d332d93bb465e3431081945e4245e07b5de9c3">
+      <lyrics/>
+      <moods/>
+      <tags/>
+    </item>
+    <item guid="local://1490" path="tracks/23d9bf7eb4a19fc5c0220d06e46cf32c16067800">
+      <lyrics/>
+      <moods/>
+      <rating_count>13490</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1484" path="tracks/080749210e55fe4f1fd24d6494f16a73f673265b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545012&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=CREUZA%20DE%20MA&amp;track=Creuza%20de%20M%E4" remote="com.plexapp.agents.lyricfind_d66a8bcbc406b92d77e8d0d663bb3a5a5d6a3651" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>29627</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1485" path="tracks/3aec1ac42d1c285dd8dbb96ade8cd6b92b969d64">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-7545013&amp;artist=Fabrizio%20De%20Andr%E9&amp;album=CREUZA%20DE%20MA&amp;track=Jamin-A" remote="com.plexapp.agents.lyricfind_fe7341b0f4045cda1f513e57e5fe17238a833670" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>25765</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1486" path="tracks/d47c734fd508ce848d35481b2573ae5340426be2">
+      <lyrics/>
+      <moods/>
+      <rating_count>22861</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1487" path="tracks/52efb43edb45bdcbf60fcc9789f5b067569f4038">
+      <lyrics/>
+      <moods/>
+      <rating_count>2560</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1488" path="tracks/8403d641fb99f30a9ff889ddf15671a36a1e1272">
+      <lyrics/>
+      <moods/>
+      <rating_count>10785</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://1489" path="tracks/df7a0e6d13eaee25afb01251dd2e51bc04470d9f">
+      <lyrics/>
+      <moods/>
+      <rating_count>20656</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

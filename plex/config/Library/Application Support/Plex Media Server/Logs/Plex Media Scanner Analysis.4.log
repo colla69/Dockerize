@@ -1,0 +1,76 @@
+Apr 07, 2019 11:08:08.386 [0x7f64f6587700] INFO - Plex Media Scanner v1.15.2.793-782228f99 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Apr 07, 2019 11:08:08.386 [0x7f64f6587700] INFO - Linux version: 4.15.0-47-generic, language: en-US
+Apr 07, 2019 11:08:08.386 [0x7f64f6587700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 11:08:08.386 [0x7f64f6587700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 2239
+Apr 07, 2019 11:08:08.388 [0x7f64feaf2b80] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.26.0, threadsafe=1
+Apr 07, 2019 11:08:08.491 [0x7f64feaf2b80] DEBUG - Analyzing media parts for item 2239 (Children Of Bodom On Headbanger's Ball): 2004
+Apr 07, 2019 11:08:08.491 [0x7f64feaf2b80] DEBUG - [ID 2004] Media part analysis: /music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg
+Apr 07, 2019 11:08:08.491 [0x7f64feaf2b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg"
+Apr 07, 2019 11:08:08.491 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg' for reading
+Apr 07, 2019 11:08:08.491 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:08.511 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:08.511 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:08.511 [0x7f64feaf2b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:08.511 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:08.512 [0x7f64feaf2b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:08.512 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:08.766 [0x7f64feaf2b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3690640 seeks:2 frames:1430
+Apr 07, 2019 11:08:08.766 [0x7f64feaf2b80] DEBUG - [MI]  * 886a27f699dfdfe0fc0e108db1ad589605c1c0aa [mpeg mpeg1video/mp2] Duration: 343776ms, 720x480 (1.369863) 29.970fps, bitrate=1389kbps, audio channels=2, optimizedForStreaming=0 ("/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg")
+Apr 07, 2019 11:08:08.766 [0x7f64feaf2b80] DEBUG - [MI] Chapters had generic titles, clearing.
+Apr 07, 2019 11:08:08.767 [0x7f64feaf2b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg"
+Apr 07, 2019 11:08:08.767 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Statistics: 3690640 bytes read, 2 seeks
+Apr 07, 2019 11:08:08.767 [0x7f64feaf2b80] DEBUG - Committing media stream changes for part 2004
+Apr 07, 2019 11:08:08.774 [0x7f64feaf2b80] DEBUG - Updating media item 2004, size=59715588, metadata_item_id=2239
+Apr 07, 2019 11:08:08.774 [0x7f64feaf2b80] DEBUG - Updating part with ID=2004 [/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg]
+Apr 07, 2019 11:08:08.782 [0x7f64feaf2b80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg"
+Apr 07, 2019 11:08:08.782 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg' for reading
+Apr 07, 2019 11:08:08.782 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:08.784 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:08.784 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:08.785 [0x7f64feaf2b80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:08.785 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:08.785 [0x7f64feaf2b80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:08.785 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:08.822 [0x7f64feaf2b80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3690640 seeks:2 frames:1430
+Apr 07, 2019 11:08:08.823 [0x7f64feaf2b80] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/8/86a27f699dfdfe0fc0e108db1ad589605c1c0aa.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Apr 07, 2019 11:08:08.854 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:08.854 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.855 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.856 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:08.857 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.857 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.857 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:08.857 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.882 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.884 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.884 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:08.910 [0x7f64feaf2b80] DEBUG - Loaded memory image of size 720x525.
+Apr 07, 2019 11:08:08.942 [0x7f64feaf2b80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Headbanger's Ball.mpg"
+Apr 07, 2019 11:08:08.942 [0x7f64feaf2b80] DEBUG - [FFMPEG] - Statistics: 3887248 bytes read, 4 seeks
+Apr 07, 2019 11:08:08.980 [0x7f64feaf2b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.980 [0x7f64feaf2b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.982 [0x7f64feaf2b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.982 [0x7f64feaf2b80] DEBUG - Updating metadata item (save) (Children Of Bodom On Headbanger's Ball) with ID 2239
+Apr 07, 2019 11:08:08.985 [0x7f64effff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:08.986 [0x7f64effff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:08.990 [0x7f64feaf2b80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.990 [0x7f64effff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:08.990 [0x7f64feaf2b80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.991 [0x7f64effff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:08.991 [0x7f64feaf2b80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:08.992 [0x7f64feaf2b80] DEBUG - Updating metadata item (save) (Children Of Bodom On Headbanger's Ball) with ID 2239
+Apr 07, 2019 11:08:08.992 [0x7f64effff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:08.993 [0x7f64effff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:08.993 [0x7f64effff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:08.995 [0x7f64effff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2239&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:08.999 [0x7f64effff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:09.000 [0x7f64effff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache

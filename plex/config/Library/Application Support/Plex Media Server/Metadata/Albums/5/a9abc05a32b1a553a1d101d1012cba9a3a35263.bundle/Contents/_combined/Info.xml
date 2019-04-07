@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <originally_available_at>2002-01-01</originally_available_at>
+  <posters>
+    <item external="True" url="https://lastfm-img2.akamaized.net/i/u/300x300/2c2354dd47b84fb394940b564b01cf70.png" media="com.plexapp.agents.lastfm_727c378dede1fdfdd43b65269116be83400457e9" provider="com.plexapp.agents.lastfm"/>
+  </posters>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>Doctor Zhivago</title>
+  <tracks>
+    <item guid="local://455" path="tracks/0962614dc12034b1b0f4b43c810607af3107685d">
+      <lyrics/>
+      <moods/>
+      <rating_count>102492</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://466" path="tracks/f60bf1ae313b8fbd362d7ad795f5806b9f64c8b2">
+      <lyrics/>
+      <moods/>
+      <rating_count>163884</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://454" path="tracks/c222befd1806492e32f31f30a760e7f3cd6ad0ed">
+      <lyrics/>
+      <moods/>
+      <rating_count>39037</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://462" path="tracks/9516084280af206ad315a5acf777e2793ef7d35a">
+      <lyrics/>
+      <moods/>
+      <rating_count>114891</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://463" path="tracks/3b8583e1b8a4b9e3ced97fb3d0c7dbad7c3f0855">
+      <lyrics/>
+      <moods/>
+      <rating_count>31338</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://460" path="tracks/747bc898b4db4208e505a9ebe3a68d948a5562f1">
+      <lyrics/>
+      <moods/>
+      <rating_count>28377</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://461" path="tracks/1b476e2ab1b958413a3b630dda526fcd36973e01">
+      <lyrics/>
+      <moods/>
+      <rating_count>26654</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://457" path="tracks/774f51c564112f2f63a1ade525eccd8481d9a7ec">
+      <lyrics/>
+      <moods/>
+      <rating_count>32784</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://456" path="tracks/f3f0f5d59fc7a0d111006f490f8ad8be61cadda9">
+      <lyrics/>
+      <moods/>
+      <rating_count>30312</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://464" path="tracks/dc87164fd3b39f532670c4314aef2a44db50dc91">
+      <lyrics/>
+      <moods/>
+      <rating_count>22182</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://465" path="tracks/3e9aadb624e9d607e2ccebb549a08c0a4ade0944">
+      <lyrics/>
+      <moods/>
+      <rating_count>156737</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://453" path="tracks/13a601ebc94c10212564b49e6dc907de73a5f148">
+      <lyrics/>
+      <moods/>
+      <rating_count>39703</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://467" path="tracks/788b43308d6206829f66c81e1dee073029efa5a6">
+      <lyrics/>
+      <moods/>
+      <rating_count>22774</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://468" path="tracks/3f4be7c804f8b702b4dac5ccf0622cbcba6136bd">
+      <lyrics/>
+      <moods/>
+      <rating_count>21602</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://459" path="tracks/be4332f238def3f041452b6757cc92e6af9354f9">
+      <lyrics/>
+      <moods/>
+      <rating_count>25137</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://458" path="tracks/71fdac22355642d39b685d9b9862df4e81296560">
+      <lyrics/>
+      <moods/>
+      <rating_count>28552</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>

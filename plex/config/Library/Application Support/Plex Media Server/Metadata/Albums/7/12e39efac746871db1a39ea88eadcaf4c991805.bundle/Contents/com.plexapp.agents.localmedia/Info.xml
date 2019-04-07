@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Album id="514">
+  <rating/>
+  <art/>
+  <duration/>
+  <genres>
+    <item index="0">Classical</item>
+  </genres>
+  <title/>
+  <rating_count/>
+  <collections/>
+  <countries/>
+  <available_at/>
+  <tags/>
+  <audience_rating_image/>
+  <rating_image/>
+  <producers/>
+  <audience_rating/>
+  <tracks/>
+  <studio/>
+  <posters>
+    <item external="True" url="ef43cc90137c085cbaa235b384938ced" media="c164e274afb715e0f96ffe2ddb5856fc9429ba0f"/>
+  </posters>
+  <originally_available_at>2003-01-01</originally_available_at>
+  <artist/>
+  <title_sort/>
+  <original_title/>
+  <summary/>
+  <reviews/>
+</Album>

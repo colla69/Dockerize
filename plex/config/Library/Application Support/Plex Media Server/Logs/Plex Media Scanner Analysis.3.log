@@ -1,0 +1,72 @@
+Apr 07, 2019 11:08:09.023 [0x7faed09e7700] INFO - Plex Media Scanner v1.15.2.793-782228f99 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 - GMT 00:00
+Apr 07, 2019 11:08:09.023 [0x7faed09e7700] INFO - Linux version: 4.15.0-47-generic, language: en-US
+Apr 07, 2019 11:08:09.024 [0x7faed09e7700] INFO - Processor AMD FX(tm)-6200 Six-Core Processor             
+Apr 07, 2019 11:08:09.024 [0x7faed09e7700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 2240
+Apr 07, 2019 11:08:09.026 [0x7faed8f4eb80] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.26.0, threadsafe=1
+Apr 07, 2019 11:08:09.132 [0x7faed8f4eb80] DEBUG - Analyzing media parts for item 2240 (Children Of Bodom On Uranium): 2005
+Apr 07, 2019 11:08:09.132 [0x7faed8f4eb80] DEBUG - [ID 2005] Media part analysis: /music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg
+Apr 07, 2019 11:08:09.132 [0x7faed8f4eb80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg"
+Apr 07, 2019 11:08:09.132 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg' for reading
+Apr 07, 2019 11:08:09.132 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:09.170 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:09.170 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:09.170 [0x7faed8f4eb80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:09.170 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:09.170 [0x7faed8f4eb80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:09.171 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:09.433 [0x7faed8f4eb80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3690640 seeks:2 frames:1430
+Apr 07, 2019 11:08:09.433 [0x7faed8f4eb80] DEBUG - [MI]  * ad062474b3dc3e581ae42fa90cf3b90cc510d616 [mpeg mpeg1video/mp2] Duration: 395016ms, 720x480 (1.369863) 29.970fps, bitrate=1362kbps, audio channels=2, optimizedForStreaming=0 ("/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg")
+Apr 07, 2019 11:08:09.433 [0x7faed8f4eb80] DEBUG - [MI] Chapters had generic titles, clearing.
+Apr 07, 2019 11:08:09.434 [0x7faed8f4eb80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg"
+Apr 07, 2019 11:08:09.434 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Statistics: 3690640 bytes read, 2 seeks
+Apr 07, 2019 11:08:09.435 [0x7faed8f4eb80] DEBUG - Committing media stream changes for part 2005
+Apr 07, 2019 11:08:09.441 [0x7faed8f4eb80] DEBUG - Updating media item 2005, size=67282948, metadata_item_id=2240
+Apr 07, 2019 11:08:09.441 [0x7faed8f4eb80] DEBUG - Updating part with ID=2005 [/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg]
+Apr 07, 2019 11:08:09.450 [0x7faed8f4eb80] DEBUG - [MI] Opening input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg"
+Apr 07, 2019 11:08:09.450 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Opening '/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg' for reading
+Apr 07, 2019 11:08:09.450 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Apr 07, 2019 11:08:09.457 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Format mpeg probed with size=2048 and score=26
+Apr 07, 2019 11:08:09.457 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 0 bytes read:32768 seeks:0 nb_streams:0
+Apr 07, 2019 11:08:09.457 [0x7faed8f4eb80] DEBUG - [FFMPEG] - probing stream 0 pp:2500
+Apr 07, 2019 11:08:09.457 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Probe with size=2018, packets=1 detected mpegvideo with score=25
+Apr 07, 2019 11:08:09.457 [0x7faed8f4eb80] DEBUG - [FFMPEG] - probed stream 0
+Apr 07, 2019 11:08:09.458 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:09.490 [0x7faed8f4eb80] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 0 bytes read:3690640 seeks:2 frames:1430
+Apr 07, 2019 11:08:09.496 [0x7faed8f4eb80] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/d062474b3dc3e581ae42fa90cf3b90cc510d616.bundle/Contents/Thumbnails/thumb1.jpg (50.0%, 720x512).
+Apr 07, 2019 11:08:09.524 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Apr 07, 2019 11:08:09.524 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.524 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.559 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:09.560 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.560 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.560 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping P slice due to !sync
+Apr 07, 2019 11:08:09.560 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.560 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.586 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.586 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Skipping B slice due to open GOP
+Apr 07, 2019 11:08:09.617 [0x7faed8f4eb80] DEBUG - Loaded memory image of size 720x525.
+Apr 07, 2019 11:08:09.650 [0x7faed8f4eb80] DEBUG - [MI] Closing input file: "/music/New/Children Of Bodom/Children Of Bodom - Video/Children Of Bodom On Uranium.mpg"
+Apr 07, 2019 11:08:09.650 [0x7faed8f4eb80] DEBUG - [FFMPEG] - Statistics: 3821712 bytes read, 3 seeks
+Apr 07, 2019 11:08:09.784 [0x7faed8f4eb80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.784 [0x7faed8f4eb80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.786 [0x7faed8f4eb80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.786 [0x7faed8f4eb80] DEBUG - Updating metadata item (save) (Children Of Bodom On Uranium) with ID 2240
+Apr 07, 2019 11:08:09.788 [0x7faeca95f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:09.790 [0x7faeca95f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache
+Apr 07, 2019 11:08:09.792 [0x7faed8f4eb80] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.792 [0x7faeca95f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:09.792 [0x7faed8f4eb80] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.793 [0x7faeca95f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=analyzing
+Apr 07, 2019 11:08:09.794 [0x7faeca95f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:09.794 [0x7faed8f4eb80] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Apr 07, 2019 11:08:09.795 [0x7faed8f4eb80] DEBUG - Updating metadata item (save) (Children Of Bodom On Uranium) with ID 2240
+Apr 07, 2019 11:08:09.795 [0x7faeca95f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=thumbnailing
+Apr 07, 2019 11:08:09.795 [0x7faeca95f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:09.797 [0x7faeca95f700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=-1&metadataItemID=2240&metadataType=12&state=-1&mediaState=idle
+Apr 07, 2019 11:08:09.800 [0x7faeca95f700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/flushMetadataCounterCache

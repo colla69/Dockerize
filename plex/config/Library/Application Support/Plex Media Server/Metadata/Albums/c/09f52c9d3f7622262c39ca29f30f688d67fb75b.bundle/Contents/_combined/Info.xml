@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LegacyAlbum>
+  <art/>
+  <collections/>
+  <countries/>
+  <genres>
+    <item index="0">Pop</item>
+  </genres>
+  <originally_available_at>2006-01-01</originally_available_at>
+  <posters/>
+  <producers/>
+  <reviews/>
+  <tags/>
+  <title>TuttoVasco: Vivere una favola</title>
+  <tracks>
+    <item guid="local://99" path="tracks/960d4819fcd7c4689485e4fbc198354f870e1121">
+      <lyrics/>
+      <moods/>
+      <rating_count>14652</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://121" path="tracks/a2cf401a0c82b19095e4c440486bed7e1b3abaca">
+      <lyrics/>
+      <moods/>
+      <rating_count>6196</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://120" path="tracks/ea9932906fef267b573085261b0b39b8a98959d5">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8946008&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Una%20Canzone%20Per%20Te" remote="com.plexapp.agents.lyricfind_c2ca2900f50425d30d1537299e94d21ce8ca7422" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62275</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://123" path="tracks/47c06fc04ef59a9d1310bffb8a1a526ef665f96e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_19a0f477c0d268a8ea256e4f2edf140cb833a868" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243732&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Albachiara" remote="com.plexapp.agents.lyricfind_ee5d00b7dd53ae52749fd72331a5da310766af23" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>102962</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://104" path="tracks/14d5fa0cf8cd2acee8c7227581c9f7a7011954c9">
+      <lyrics/>
+      <moods/>
+      <rating_count>6038</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://92" path="tracks/30eeba9da810d17ef0e7080005024dc36c4f133c">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764338&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=C%27%C8%20Chi%20Dice%20No" remote="com.plexapp.agents.lyricfind_75770a0c728bd2db8fef55a5debd3525dcc467db" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>28818</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://93" path="tracks/97ca5e058206640fee3fcaed1f3e1b31846063d3">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-4331695&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Ti%20Taglio%20la%20Gola" remote="com.plexapp.agents.lyricfind_98b4249660a5a3b6f6917dbd15c656d835e2178a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>6003</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://109" path="tracks/593449704a2ef8bae16d7da8045b076e6578ee95">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-8946005&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Dormi%20Dormi" remote="com.plexapp.agents.lyricfind_657ded10ce3335923bc3afb5327596e645c0d331" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>8650</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://108" path="tracks/3ae471f984c1639064af81fdd5896c2cfed0aabf">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764337&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Vivere%20Una%20Favola" remote="com.plexapp.agents.lyricfind_fe6a3cd44ecc2f7a00a4803e31ebd0cc2f458dc9" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>17463</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://96" path="tracks/a69a19a219bcddbdb180bb635f607697d8927846">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764340&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=%22Blasco%22%20Rossi" remote="com.plexapp.agents.lyricfind_476d7aea2786ec9d519984d91c2d8d9407ddd930" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>4344</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://97" path="tracks/14371e23ea416f74667c3aebd86bb9cffb8f9f80">
+      <lyrics/>
+      <moods/>
+      <rating_count>6624</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://94" path="tracks/57d172c8f43c7a927903fd6860153bc96e5edadf">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19053722&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Cosa%20Succede%20in%20Citta" remote="com.plexapp.agents.lyricfind_9878a241a011a6dc37080032c4089294e737abb2" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>10671</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://95" path="tracks/d530e17b83178b76f4efb001e9e82313078530a4">
+      <lyrics/>
+      <moods/>
+      <rating_count>4832</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://103" path="tracks/d1e6f9553a47861af4e0170c9ce18ca1fc863e2b">
+      <lyrics/>
+      <moods/>
+      <rating_count>18589</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://102" path="tracks/de6d51734fde02a6a597ab90511b35ac54289bc3">
+      <lyrics/>
+      <moods/>
+      <rating_count>22592</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://101" path="tracks/4d45964243ac66d10e341a1230c7435eee66b6f0">
+      <lyrics/>
+      <moods/>
+      <rating_count>10450</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://100" path="tracks/b5626b1bb6be5b986c259409da33bce8d17a5358">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-32243727&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Colpa%20d%27Alfredo" remote="com.plexapp.agents.lyricfind_2d933af0455628b791d8967899853e7e8bba6a37" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>35036</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://107" path="tracks/2ccc602d6141bc19ad1304d29d1180a9b08cf602">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435865&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Siamo%20Solo%20Noi" remote="com.plexapp.agents.lyricfind_31d5deecd3d9aaf7a3bbec98238f9abcca07a5cb" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>44521</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://106" path="tracks/6f2a4342fbe4574206be1ce32eac16fd98549960">
+      <lyrics/>
+      <moods/>
+      <rating_count>33793</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://105" path="tracks/db05e39108d5cad19a7a1793405b352658ebf5fa">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;lrc=1&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_0eb0c11470796567f8c14381c05257ceb1878a7e" format="lrc" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5327789&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Vita%20Spericolata" remote="com.plexapp.agents.lyricfind_41ce7f83d15dcc0fcfd9f4a2519a444d483a804f" format="txt" sort_order="2" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>62805</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://122" path="tracks/bcccae6a4ed1d1a946d23d9b75a90ca0a7e902dc">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-16435872&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Valium" remote="com.plexapp.agents.lyricfind_3233cff6d4cbc00e9310a776cde315b311bc4fe4" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>7537</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://118" path="tracks/546cd2834bf29e151736bf07cfe9c3f157b83034">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19053719&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Una%20Nuova%20Canzone%20Per%20Lei" remote="com.plexapp.agents.lyricfind_703066c626cb1f58a5c80e6410b0309e3fcda09c" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>6985</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://119" path="tracks/24812db7a9a9e11996d155827cf49a7d92123f4e">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764341&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Brava%20Giulia" remote="com.plexapp.agents.lyricfind_a66b30cd16fd452bae4ff3c3b96400373fce1411" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>16687</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://110" path="tracks/8d233a984c23a5251c79eee4ebee046795b94580">
+      <lyrics/>
+      <moods/>
+      <rating_count>5248</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://111" path="tracks/de0ef5e353297aca722a19d27b1ab1b1abf25eee">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-9914529&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Ciao" remote="com.plexapp.agents.lyricfind_19bc01a4ad1f9c3f536b7773f005f8fb890e9f0a" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>20110</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://112" path="tracks/e2f60cfdf6866cfdc7a6dd06ae32645e1e0ff0c1">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764343&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Non%20Mi%20Va" remote="com.plexapp.agents.lyricfind_e2e16eab907b1d555cd0ecdde36090bf88776bcb" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>5893</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://113" path="tracks/496c0ab38f2525a81db9de36cfa788a1677ea2dc">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-5764339&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Ridere%20Di%20Te" remote="com.plexapp.agents.lyricfind_8aabacb3ef42f3e0c649885bc4174de15a2ac8c5" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>34419</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://114" path="tracks/7582ad1a44142d997e29bb09e3c9f76b932b9f5c">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-4331694&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Va%20Bene%2C%20Va%20Bene%20Cosi%27" remote="com.plexapp.agents.lyricfind_e94417e24a1aa65ae1d46ce8b4749ad6798beca3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>9341</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://115" path="tracks/d62ea93927309892bbe4c7308ccf34e0211f6207">
+      <lyrics/>
+      <moods/>
+      <rating_count>23046</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://116" path="tracks/05a6f26fd85af55bff55c7b5103beb6be6963176">
+      <lyrics/>
+      <moods/>
+      <rating_count>54146</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://117" path="tracks/5f043b722b15673aa2a1143ddfb81a8f88001c6b">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19053721&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Toffee" remote="com.plexapp.agents.lyricfind_2438f911ed83daa7581a2efd05488852823965f3" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>15442</rating_count>
+      <tags/>
+    </item>
+    <item guid="local://98" path="tracks/2a98e84178a191073dbd7def541b1832e49b708d">
+      <lyrics>
+        <item external="True" url="http://127.0.0.1:32400/services/lyricfind/lyrics?id=001-19056650&amp;artist=Vasco%20Rossi&amp;album=Tuttovasco%20Vivere%20Una%20Favola&amp;track=Fegato%2C%20Fegato%20Spappolato" remote="com.plexapp.agents.lyricfind_7d9daa77a6b7eaea3c0976be73f9816d1954fbd0" format="txt" sort_order="1" provider="com.plexapp.agents.lyricfind"/>
+      </lyrics>
+      <moods/>
+      <rating_count>14003</rating_count>
+      <tags/>
+    </item>
+  </tracks>
+</LegacyAlbum>
