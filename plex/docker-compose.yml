@@ -3,15 +3,25 @@ services:
   plex:
     image: linuxserver/plex
     container_name: plex
-    network_mode: host
+    #network_mode: host
     environment:
       - PUID=1000
       - PGID=1000
       - VERSION=docker
+    ports:
+      - 32400:32400/tcp
+      - 3005:3005/tcp
+      - 8324:8324/tcp
+      - 32469:32469/tcp
+      - 1900:1900/udp
+      - 32410:32410/udp
+      - 32412:32412/udp
+      - 32413:32413/udp
+      - 32414:32414/udp
     volumes:
       - ./config:/config
-      - /media/cola/Data2/Music:/music
+      - /media/cola/Data/Music:/music
 #      - <path/to/tvseries>:/data/tvshows
 #      - </path/to/movies>:/data/movies
-#      - </path for transcoding>:/transcode
+      - ./transcode:/transcode
     restart: unless-stopped
