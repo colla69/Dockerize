@@ -10,7 +10,7 @@ services:
       - VERSION=docker
     volumes:
       - ./config:/config
-      - /media/cola/Data1/Music:/music
+      - /media/cola/Data2/Music:/music
 #      - <path/to/tvseries>:/data/tvshows
 #      - </path/to/movies>:/data/movies
 #      - </path for transcoding>:/transcode
