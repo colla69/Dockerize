@@ -24,4 +24,16 @@ services:
       - db
     volumes:
       - nextcloud:/var/www/html
-    restart: always 
+    restart: always
+
+  collabora:
+    image: collabora/code
+    container_name: collabora
+    ports:
+      - 9980:9980
+    cap_add:
+      - MKNOD
+    environment:
+      - domain=nextcloud.colarietitosti.info 
+    restart: always
+        
