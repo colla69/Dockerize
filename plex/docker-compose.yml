@@ -8,9 +8,6 @@ services:
   plex:
     image: linuxserver/plex
     container_name: plex
-    #network_mode: hod
-    mem_limit: 2g
-st
     environment:
       - PUID=1000
       - PGID=1000

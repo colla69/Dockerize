@@ -16,6 +16,8 @@ services:
       - MYSQL_PASSWORD=nextcloud
       - MYSQL_DATABASE=nextcloud
       - MYSQL_USER=nextcloud
+    mem_limit: 1g
+    
   app:
     image: nextcloud
     ports:
