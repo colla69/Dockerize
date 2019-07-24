@@ -1,4 +1,4 @@
-version: '2'
+version: '2.3'
 
 volumes:
   nextcloud:
@@ -25,6 +25,7 @@ services:
     volumes:
       - nextcloud:/var/www/html
     restart: always
+    mem_limit: 1g
 
   collabora:
     image: collabora/code
@@ -36,4 +37,5 @@ services:
     environment:
       - domain=nextcloud.colarietitosti.info 
     restart: always
+    mem_limit: 1g
         

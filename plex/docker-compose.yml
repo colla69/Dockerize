@@ -1,4 +1,4 @@
-version: "3"
+version: "2.3"
 
 volumes:
     config:
@@ -8,7 +8,9 @@ services:
   plex:
     image: linuxserver/plex
     container_name: plex
-    #network_mode: host
+    #network_mode: hod
+    mem_limit: 2g
+st
     environment:
       - PUID=1000
       - PGID=1000
@@ -29,4 +31,6 @@ services:
 #      - <path/to/tvseries>:/data/tvshows
 #      - </path/to/movies>:/data/movies
       - transcode:/transcode
-    restart: unless-stopped
+    restart: unless-stoppedd
+    mem_limit: 2g
+    
